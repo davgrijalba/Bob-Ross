@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bob Ross Style Shift</title>
+  <meta name="description" content="Did Bob Ross's painting style change across 31 seasons of The Joy of Painting? Every number loads from CSV files written by a reviewed Python script.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community@32.3.3/styles/ag-grid.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community@32.3.3/styles/ag-theme-quartz.css">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="eyebrow">The Joy of Painting · 1983–1994 · 31 seasons</p>
+      <h1>Did Bob Ross's style change?</h1>
+      <p class="lede">Which elements appeared in his paintings, season by season, and what he painted more or less often in the second half of the show. Every number is read at load time from CSV files written by a reviewed Python script.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p id="load-status" class="status" role="status">Loading data…</p>
+
+    <section class="kpis" aria-label="Key numbers">
+      <div class="kpi"><span class="kpi-value" id="kpi-paintings">–</span><span class="kpi-label" id="kpi-paintings-label">Bob Ross paintings analysed</span></div>
+      <div class="kpi"><span class="kpi-value" id="kpi-fall">–</span><span class="kpi-label" id="kpi-fall-label">Biggest clear drop</span></div>
+      <div class="kpi"><span class="kpi-value" id="kpi-rise">–</span><span class="kpi-label" id="kpi-rise-label">Biggest clear rise</span></div>
+    </section>
+
+    <!-- 1. What changed -->
+    <section class="card" aria-labelledby="change-title">
+      <div class="card-head">
+        <h2 id="change-title">What he painted more, and less, after season 15</h2>
+        <div class="segmented" role="group" aria-label="Which elements to show">
+          <button type="button" class="seg" data-change-view="clear" aria-pressed="true">Clear changes</button>
+          <button type="button" class="seg" data-change-view="all" aria-pressed="false">All elements</button>
+        </div>
+      </div>
+      <p class="finding" id="change-finding"></p>
+      <div id="change-chart" class="chart chart-tall" role="img" aria-label="Bar chart of the change in percentage points between seasons 1 to 15 and seasons 16 to 31 for each element"></div>
+      <p class="note">Change in the share of paintings containing each element, seasons 1–15 (181 paintings) vs. 16–31 (197). "Clear" means the change is at least 1.96 times its standard error (a two-proportion z-test). With 62 elements tested, a few borderline results could be chance. Source: <code>dashboard_data/element_change_summary.csv</code>.</p>
+    </section>
+
+    <!-- 2. Element explorer -->
+    <section class="card" aria-labelledby="element-title">
+      <div class="card-head">
+        <h2 id="element-title">Follow one element across the seasons</h2>
+      </div>
+      <div class="controls">
+        <label class="select">Element
+          <select id="element-select"></select>
+        </label>
+      </div>
+      <p class="finding" id="element-finding"></p>
+      <div id="element-chart" class="chart" role="img" aria-label="Bar chart of the share of paintings containing the selected element in each season"></div>
+      <p class="note">Bars: share of that season's paintings with the element (9–13 paintings per season, so single seasons are noisy). Dashed lines: average for seasons 1–15 and 16–31. Source: <code>element_share_by_season.csv</code> and <code>element_change_summary.csv</code>.</p>
+    </section>
+
+    <!-- 3. Heatmap -->
+    <section class="card" aria-labelledby="heat-title">
+      <div class="card-head">
+        <h2 id="heat-title">His style, season by season</h2>
+      </div>
+      <p class="finding" id="heat-finding"></p>
+      <div id="heat-chart" class="chart chart-heat" role="img" aria-label="Heatmap of the twenty most common scene elements by season"></div>
+      <p class="note">The 20 most common scene elements (frames excluded). Darker = present in more of that season's paintings. Source: <code>element_share_by_season.csv</code>.</p>
+    </section>
+
+    <!-- 4. Complexity and frames -->
+    <section class="card" aria-labelledby="season-title">
+      <div class="card-head">
+        <h2 id="season-title">How busy were the paintings, and when did frames appear?</h2>
+      </div>
+      <p class="finding" id="season-finding"></p>
+      <div id="season-chart" class="chart" role="img" aria-label="Line chart of average scene elements per painting and bar chart of the share of framed paintings by season"></div>
+      <p class="note">Line: average number of scene elements per painting (frames not counted). Bars: share of paintings with a frame. Source: <code>season_summary.csv</code>.</p>
+    </section>
+
+    <!-- 5. Episode table -->
+    <section class="card" aria-labelledby="table-title">
+      <div class="card-head">
+        <h2 id="table-title">All 403 episodes</h2>
+      </div>
+      <div class="controls">
+        <label class="select search">Search
+          <input id="episode-search" type="search" placeholder="Title or element, e.g. cabin">
+        </label>
+      </div>
+      <div id="episode-grid" class="ag-theme-quartz grid" aria-label="Table of all episodes"></div>
+      <p class="note">Includes the 22 guest episodes and 3 episodes with nothing recorded, which are left out of the charts above. Source: <code>episodes.csv</code>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Data: FiveThirtyEight, <a href="https://github.com/fivethirtyeight/data/tree/master/bob-ross">bob-ross / elements-by-episode.csv</a> (CC BY 4.0), from <em>A Statistical Analysis of the Work of Bob Ross</em>. Elements are coded as present or absent, not by size. Method, checks and caveats: <a href="dashboard_data/PROVENANCE.md">PROVENANCE.md</a>.</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/ag-grid-community@32.3.3/dist/ag-grid-community.min.noStyle.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

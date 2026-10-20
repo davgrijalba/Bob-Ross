@@ -1,0 +1,1923 @@
+season,element,element_label,category,paintings_in_season,paintings_with_element,pct_of_paintings
+1,TREE,Tree (at least one),Trees & plants,13,12,92.3
+1,TREES,Trees (several),Trees & plants,13,12,92.3
+1,CONIFER,Conifer,Trees & plants,13,8,61.5
+1,DECIDUOUS,Deciduous,Trees & plants,13,6,46.2
+1,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+1,BUSHES,Bushes,Trees & plants,13,5,38.5
+1,GRASS,Grass,Trees & plants,13,2,15.4
+1,FLOWERS,Flowers,Trees & plants,13,0,0.0
+1,CACTUS,Cactus,Trees & plants,13,0,0.0
+1,MOUNTAIN,Mountain (at least one),Mountains & land,13,9,69.2
+1,MOUNTAINS,Mountains (several),Mountains & land,13,5,38.5
+1,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,6,46.2
+1,HILLS,Hills,Mountains & land,13,0,0.0
+1,CLIFF,Cliff,Mountains & land,13,0,0.0
+1,ROCKS,Rocks,Mountains & land,13,1,7.7
+1,PATH,Path,Mountains & land,13,0,0.0
+1,BEACH,Beach,Mountains & land,13,1,7.7
+1,LAKE,Lake,Water,13,7,53.8
+1,RIVER,River,Water,13,2,15.4
+1,OCEAN,Ocean,Water,13,1,7.7
+1,WAVES,Waves,Water,13,0,0.0
+1,WATERFALL,Waterfall,Water,13,0,0.0
+1,CLOUDS,Clouds,Sky & light,13,4,30.8
+1,CIRRUS,Cirrus,Sky & light,13,1,7.7
+1,CUMULUS,Cumulus,Sky & light,13,0,0.0
+1,SUN,Sun,Sky & light,13,1,7.7
+1,MOON,Moon,Sky & light,13,1,7.7
+1,NIGHT,Night,Sky & light,13,1,7.7
+1,FOG,Fog,Sky & light,13,0,0.0
+1,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+1,SNOW,Snow,Winter,13,2,15.4
+1,WINTER,Winter,Winter,13,3,23.1
+1,BARN,Barn,Buildings & objects,13,0,0.0
+1,BOAT,Boat,Buildings & objects,13,0,0.0
+1,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+1,BUILDING,Building,Buildings & objects,13,0,0.0
+1,CABIN,Cabin,Buildings & objects,13,3,23.1
+1,DOCK,Dock,Buildings & objects,13,0,0.0
+1,FARM,Farm,Buildings & objects,13,0,0.0
+1,FENCE,Fence,Buildings & objects,13,2,15.4
+1,FIRE,Fire,Buildings & objects,13,0,0.0
+1,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+1,MILL,Mill,Buildings & objects,13,0,0.0
+1,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+1,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+1,PERSON,Person,People,13,0,0.0
+1,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+1,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+1,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+1,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+1,FRAMED,Any frame,Frames,13,0,0.0
+1,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+1,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+1,OVAL_FRAME,Oval frame,Frames,13,0,0.0
+1,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+1,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+1,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+1,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+1,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+1,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+1,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+1,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+2,TREE,Tree (at least one),Trees & plants,13,13,100.0
+2,TREES,Trees (several),Trees & plants,13,13,100.0
+2,CONIFER,Conifer,Trees & plants,13,7,53.8
+2,DECIDUOUS,Deciduous,Trees & plants,13,9,69.2
+2,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+2,BUSHES,Bushes,Trees & plants,13,7,53.8
+2,GRASS,Grass,Trees & plants,13,7,53.8
+2,FLOWERS,Flowers,Trees & plants,13,0,0.0
+2,CACTUS,Cactus,Trees & plants,13,0,0.0
+2,MOUNTAIN,Mountain (at least one),Mountains & land,13,6,46.2
+2,MOUNTAINS,Mountains (several),Mountains & land,13,4,30.8
+2,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,5,38.5
+2,HILLS,Hills,Mountains & land,13,0,0.0
+2,CLIFF,Cliff,Mountains & land,13,0,0.0
+2,ROCKS,Rocks,Mountains & land,13,2,15.4
+2,PATH,Path,Mountains & land,13,0,0.0
+2,BEACH,Beach,Mountains & land,13,0,0.0
+2,LAKE,Lake,Water,13,8,61.5
+2,RIVER,River,Water,13,3,23.1
+2,OCEAN,Ocean,Water,13,2,15.4
+2,WAVES,Waves,Water,13,2,15.4
+2,WATERFALL,Waterfall,Water,13,2,15.4
+2,CLOUDS,Clouds,Sky & light,13,7,53.8
+2,CIRRUS,Cirrus,Sky & light,13,2,15.4
+2,CUMULUS,Cumulus,Sky & light,13,8,61.5
+2,SUN,Sun,Sky & light,13,3,23.1
+2,MOON,Moon,Sky & light,13,0,0.0
+2,NIGHT,Night,Sky & light,13,0,0.0
+2,FOG,Fog,Sky & light,13,0,0.0
+2,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+2,SNOW,Snow,Winter,13,2,15.4
+2,WINTER,Winter,Winter,13,0,0.0
+2,BARN,Barn,Buildings & objects,13,0,0.0
+2,BOAT,Boat,Buildings & objects,13,0,0.0
+2,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+2,BUILDING,Building,Buildings & objects,13,0,0.0
+2,CABIN,Cabin,Buildings & objects,13,1,7.7
+2,DOCK,Dock,Buildings & objects,13,0,0.0
+2,FARM,Farm,Buildings & objects,13,0,0.0
+2,FENCE,Fence,Buildings & objects,13,0,0.0
+2,FIRE,Fire,Buildings & objects,13,0,0.0
+2,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+2,MILL,Mill,Buildings & objects,13,0,0.0
+2,STRUCTURE,Structure,Buildings & objects,13,1,7.7
+2,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+2,PERSON,Person,People,13,0,0.0
+2,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+2,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+2,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+2,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+2,FRAMED,Any frame,Frames,13,0,0.0
+2,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+2,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+2,OVAL_FRAME,Oval frame,Frames,13,0,0.0
+2,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+2,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+2,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+2,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+2,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+2,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+2,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+2,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+3,TREE,Tree (at least one),Trees & plants,12,11,91.7
+3,TREES,Trees (several),Trees & plants,12,11,91.7
+3,CONIFER,Conifer,Trees & plants,12,4,33.3
+3,DECIDUOUS,Deciduous,Trees & plants,12,9,75.0
+3,PALM_TREES,Palm trees,Trees & plants,12,1,8.3
+3,BUSHES,Bushes,Trees & plants,12,4,33.3
+3,GRASS,Grass,Trees & plants,12,1,8.3
+3,FLOWERS,Flowers,Trees & plants,12,0,0.0
+3,CACTUS,Cactus,Trees & plants,12,0,0.0
+3,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+3,MOUNTAINS,Mountains (several),Mountains & land,12,4,33.3
+3,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,0,0.0
+3,HILLS,Hills,Mountains & land,12,1,8.3
+3,CLIFF,Cliff,Mountains & land,12,1,8.3
+3,ROCKS,Rocks,Mountains & land,12,1,8.3
+3,PATH,Path,Mountains & land,12,1,8.3
+3,BEACH,Beach,Mountains & land,12,0,0.0
+3,LAKE,Lake,Water,12,6,50.0
+3,RIVER,River,Water,12,2,16.7
+3,OCEAN,Ocean,Water,12,2,16.7
+3,WAVES,Waves,Water,12,2,16.7
+3,WATERFALL,Waterfall,Water,12,0,0.0
+3,CLOUDS,Clouds,Sky & light,12,4,33.3
+3,CIRRUS,Cirrus,Sky & light,12,1,8.3
+3,CUMULUS,Cumulus,Sky & light,12,3,25.0
+3,SUN,Sun,Sky & light,12,0,0.0
+3,MOON,Moon,Sky & light,12,1,8.3
+3,NIGHT,Night,Sky & light,12,2,16.7
+3,FOG,Fog,Sky & light,12,0,0.0
+3,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+3,SNOW,Snow,Winter,12,1,8.3
+3,WINTER,Winter,Winter,12,1,8.3
+3,BARN,Barn,Buildings & objects,12,1,8.3
+3,BOAT,Boat,Buildings & objects,12,0,0.0
+3,BRIDGE,Bridge,Buildings & objects,12,1,8.3
+3,BUILDING,Building,Buildings & objects,12,0,0.0
+3,CABIN,Cabin,Buildings & objects,12,3,25.0
+3,DOCK,Dock,Buildings & objects,12,0,0.0
+3,FARM,Farm,Buildings & objects,12,0,0.0
+3,FENCE,Fence,Buildings & objects,12,1,8.3
+3,FIRE,Fire,Buildings & objects,12,1,8.3
+3,LIGHTHOUSE,Lighthouse,Buildings & objects,12,1,8.3
+3,MILL,Mill,Buildings & objects,12,1,8.3
+3,STRUCTURE,Structure,Buildings & objects,12,6,50.0
+3,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+3,PERSON,Person,People,12,1,8.3
+3,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+3,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+3,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+3,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+3,FRAMED,Any frame,Frames,12,0,0.0
+3,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+3,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+3,OVAL_FRAME,Oval frame,Frames,12,0,0.0
+3,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+3,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+3,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+3,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+3,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+3,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+3,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+3,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+4,TREE,Tree (at least one),Trees & plants,11,11,100.0
+4,TREES,Trees (several),Trees & plants,11,10,90.9
+4,CONIFER,Conifer,Trees & plants,11,7,63.6
+4,DECIDUOUS,Deciduous,Trees & plants,11,5,45.5
+4,PALM_TREES,Palm trees,Trees & plants,11,0,0.0
+4,BUSHES,Bushes,Trees & plants,11,5,45.5
+4,GRASS,Grass,Trees & plants,11,7,63.6
+4,FLOWERS,Flowers,Trees & plants,11,0,0.0
+4,CACTUS,Cactus,Trees & plants,11,0,0.0
+4,MOUNTAIN,Mountain (at least one),Mountains & land,11,4,36.4
+4,MOUNTAINS,Mountains (several),Mountains & land,11,3,27.3
+4,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,11,3,27.3
+4,HILLS,Hills,Mountains & land,11,1,9.1
+4,CLIFF,Cliff,Mountains & land,11,1,9.1
+4,ROCKS,Rocks,Mountains & land,11,1,9.1
+4,PATH,Path,Mountains & land,11,1,9.1
+4,BEACH,Beach,Mountains & land,11,1,9.1
+4,LAKE,Lake,Water,11,7,63.6
+4,RIVER,River,Water,11,1,9.1
+4,OCEAN,Ocean,Water,11,1,9.1
+4,WAVES,Waves,Water,11,1,9.1
+4,WATERFALL,Waterfall,Water,11,0,0.0
+4,CLOUDS,Clouds,Sky & light,11,3,27.3
+4,CIRRUS,Cirrus,Sky & light,11,0,0.0
+4,CUMULUS,Cumulus,Sky & light,11,2,18.2
+4,SUN,Sun,Sky & light,11,0,0.0
+4,MOON,Moon,Sky & light,11,0,0.0
+4,NIGHT,Night,Sky & light,11,0,0.0
+4,FOG,Fog,Sky & light,11,0,0.0
+4,AURORA_BOREALIS,Aurora borealis,Sky & light,11,0,0.0
+4,SNOW,Snow,Winter,11,1,9.1
+4,WINTER,Winter,Winter,11,1,9.1
+4,BARN,Barn,Buildings & objects,11,0,0.0
+4,BOAT,Boat,Buildings & objects,11,0,0.0
+4,BRIDGE,Bridge,Buildings & objects,11,0,0.0
+4,BUILDING,Building,Buildings & objects,11,0,0.0
+4,CABIN,Cabin,Buildings & objects,11,2,18.2
+4,DOCK,Dock,Buildings & objects,11,0,0.0
+4,FARM,Farm,Buildings & objects,11,0,0.0
+4,FENCE,Fence,Buildings & objects,11,0,0.0
+4,FIRE,Fire,Buildings & objects,11,0,0.0
+4,LIGHTHOUSE,Lighthouse,Buildings & objects,11,0,0.0
+4,MILL,Mill,Buildings & objects,11,0,0.0
+4,STRUCTURE,Structure,Buildings & objects,11,2,18.2
+4,WINDMILL,Windmill,Buildings & objects,11,0,0.0
+4,PERSON,Person,People,11,0,0.0
+4,APPLE_FRAME,Apple frame,Frames,11,0,0.0
+4,CIRCLE_FRAME,Circle frame,Frames,11,0,0.0
+4,DOUBLE_OVAL_FRAME,Double oval frame,Frames,11,0,0.0
+4,FLORIDA_FRAME,Florida frame,Frames,11,0,0.0
+4,FRAMED,Any frame,Frames,11,0,0.0
+4,HALF_CIRCLE_FRAME,Half circle frame,Frames,11,0,0.0
+4,HALF_OVAL_FRAME,Half oval frame,Frames,11,0,0.0
+4,OVAL_FRAME,Oval frame,Frames,11,0,0.0
+4,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,11,0,0.0
+4,RECTANGULAR_FRAME,Rectangular frame,Frames,11,0,0.0
+4,SEASHELL_FRAME,Seashell frame,Frames,11,0,0.0
+4,SPLIT_FRAME,Split frame,Frames,11,0,0.0
+4,TOMB_FRAME,Tomb frame,Frames,11,0,0.0
+4,TRIPLE_FRAME,Triple frame,Frames,11,0,0.0
+4,WINDOW_FRAME,Window frame,Frames,11,0,0.0
+4,WOOD_FRAMED,Wood framed,Frames,11,0,0.0
+5,TREE,Tree (at least one),Trees & plants,9,9,100.0
+5,TREES,Trees (several),Trees & plants,9,8,88.9
+5,CONIFER,Conifer,Trees & plants,9,2,22.2
+5,DECIDUOUS,Deciduous,Trees & plants,9,8,88.9
+5,PALM_TREES,Palm trees,Trees & plants,9,0,0.0
+5,BUSHES,Bushes,Trees & plants,9,2,22.2
+5,GRASS,Grass,Trees & plants,9,6,66.7
+5,FLOWERS,Flowers,Trees & plants,9,0,0.0
+5,CACTUS,Cactus,Trees & plants,9,0,0.0
+5,MOUNTAIN,Mountain (at least one),Mountains & land,9,3,33.3
+5,MOUNTAINS,Mountains (several),Mountains & land,9,2,22.2
+5,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,9,2,22.2
+5,HILLS,Hills,Mountains & land,9,0,0.0
+5,CLIFF,Cliff,Mountains & land,9,0,0.0
+5,ROCKS,Rocks,Mountains & land,9,3,33.3
+5,PATH,Path,Mountains & land,9,1,11.1
+5,BEACH,Beach,Mountains & land,9,0,0.0
+5,LAKE,Lake,Water,9,5,55.6
+5,RIVER,River,Water,9,3,33.3
+5,OCEAN,Ocean,Water,9,0,0.0
+5,WAVES,Waves,Water,9,0,0.0
+5,WATERFALL,Waterfall,Water,9,1,11.1
+5,CLOUDS,Clouds,Sky & light,9,5,55.6
+5,CIRRUS,Cirrus,Sky & light,9,0,0.0
+5,CUMULUS,Cumulus,Sky & light,9,3,33.3
+5,SUN,Sun,Sky & light,9,0,0.0
+5,MOON,Moon,Sky & light,9,0,0.0
+5,NIGHT,Night,Sky & light,9,0,0.0
+5,FOG,Fog,Sky & light,9,0,0.0
+5,AURORA_BOREALIS,Aurora borealis,Sky & light,9,0,0.0
+5,SNOW,Snow,Winter,9,1,11.1
+5,WINTER,Winter,Winter,9,1,11.1
+5,BARN,Barn,Buildings & objects,9,2,22.2
+5,BOAT,Boat,Buildings & objects,9,0,0.0
+5,BRIDGE,Bridge,Buildings & objects,9,0,0.0
+5,BUILDING,Building,Buildings & objects,9,0,0.0
+5,CABIN,Cabin,Buildings & objects,9,0,0.0
+5,DOCK,Dock,Buildings & objects,9,0,0.0
+5,FARM,Farm,Buildings & objects,9,0,0.0
+5,FENCE,Fence,Buildings & objects,9,0,0.0
+5,FIRE,Fire,Buildings & objects,9,0,0.0
+5,LIGHTHOUSE,Lighthouse,Buildings & objects,9,0,0.0
+5,MILL,Mill,Buildings & objects,9,0,0.0
+5,STRUCTURE,Structure,Buildings & objects,9,2,22.2
+5,WINDMILL,Windmill,Buildings & objects,9,1,11.1
+5,PERSON,Person,People,9,0,0.0
+5,APPLE_FRAME,Apple frame,Frames,9,0,0.0
+5,CIRCLE_FRAME,Circle frame,Frames,9,0,0.0
+5,DOUBLE_OVAL_FRAME,Double oval frame,Frames,9,0,0.0
+5,FLORIDA_FRAME,Florida frame,Frames,9,0,0.0
+5,FRAMED,Any frame,Frames,9,0,0.0
+5,HALF_CIRCLE_FRAME,Half circle frame,Frames,9,0,0.0
+5,HALF_OVAL_FRAME,Half oval frame,Frames,9,0,0.0
+5,OVAL_FRAME,Oval frame,Frames,9,0,0.0
+5,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,9,0,0.0
+5,RECTANGULAR_FRAME,Rectangular frame,Frames,9,0,0.0
+5,SEASHELL_FRAME,Seashell frame,Frames,9,0,0.0
+5,SPLIT_FRAME,Split frame,Frames,9,0,0.0
+5,TOMB_FRAME,Tomb frame,Frames,9,0,0.0
+5,TRIPLE_FRAME,Triple frame,Frames,9,0,0.0
+5,WINDOW_FRAME,Window frame,Frames,9,0,0.0
+5,WOOD_FRAMED,Wood framed,Frames,9,0,0.0
+6,TREE,Tree (at least one),Trees & plants,13,12,92.3
+6,TREES,Trees (several),Trees & plants,13,11,84.6
+6,CONIFER,Conifer,Trees & plants,13,7,53.8
+6,DECIDUOUS,Deciduous,Trees & plants,13,7,53.8
+6,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+6,BUSHES,Bushes,Trees & plants,13,6,46.2
+6,GRASS,Grass,Trees & plants,13,8,61.5
+6,FLOWERS,Flowers,Trees & plants,13,0,0.0
+6,CACTUS,Cactus,Trees & plants,13,0,0.0
+6,MOUNTAIN,Mountain (at least one),Mountains & land,13,4,30.8
+6,MOUNTAINS,Mountains (several),Mountains & land,13,2,15.4
+6,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,3,23.1
+6,HILLS,Hills,Mountains & land,13,2,15.4
+6,CLIFF,Cliff,Mountains & land,13,0,0.0
+6,ROCKS,Rocks,Mountains & land,13,2,15.4
+6,PATH,Path,Mountains & land,13,0,0.0
+6,BEACH,Beach,Mountains & land,13,0,0.0
+6,LAKE,Lake,Water,13,4,30.8
+6,RIVER,River,Water,13,6,46.2
+6,OCEAN,Ocean,Water,13,0,0.0
+6,WAVES,Waves,Water,13,0,0.0
+6,WATERFALL,Waterfall,Water,13,1,7.7
+6,CLOUDS,Clouds,Sky & light,13,9,69.2
+6,CIRRUS,Cirrus,Sky & light,13,3,23.1
+6,CUMULUS,Cumulus,Sky & light,13,2,15.4
+6,SUN,Sun,Sky & light,13,0,0.0
+6,MOON,Moon,Sky & light,13,0,0.0
+6,NIGHT,Night,Sky & light,13,0,0.0
+6,FOG,Fog,Sky & light,13,2,15.4
+6,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+6,SNOW,Snow,Winter,13,1,7.7
+6,WINTER,Winter,Winter,13,0,0.0
+6,BARN,Barn,Buildings & objects,13,1,7.7
+6,BOAT,Boat,Buildings & objects,13,0,0.0
+6,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+6,BUILDING,Building,Buildings & objects,13,0,0.0
+6,CABIN,Cabin,Buildings & objects,13,2,15.4
+6,DOCK,Dock,Buildings & objects,13,0,0.0
+6,FARM,Farm,Buildings & objects,13,0,0.0
+6,FENCE,Fence,Buildings & objects,13,1,7.7
+6,FIRE,Fire,Buildings & objects,13,0,0.0
+6,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+6,MILL,Mill,Buildings & objects,13,0,0.0
+6,STRUCTURE,Structure,Buildings & objects,13,1,7.7
+6,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+6,PERSON,Person,People,13,0,0.0
+6,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+6,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+6,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+6,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+6,FRAMED,Any frame,Frames,13,0,0.0
+6,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+6,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+6,OVAL_FRAME,Oval frame,Frames,13,0,0.0
+6,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+6,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+6,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+6,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+6,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+6,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+6,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+6,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+7,TREE,Tree (at least one),Trees & plants,11,11,100.0
+7,TREES,Trees (several),Trees & plants,11,9,81.8
+7,CONIFER,Conifer,Trees & plants,11,3,27.3
+7,DECIDUOUS,Deciduous,Trees & plants,11,9,81.8
+7,PALM_TREES,Palm trees,Trees & plants,11,0,0.0
+7,BUSHES,Bushes,Trees & plants,11,4,36.4
+7,GRASS,Grass,Trees & plants,11,2,18.2
+7,FLOWERS,Flowers,Trees & plants,11,0,0.0
+7,CACTUS,Cactus,Trees & plants,11,0,0.0
+7,MOUNTAIN,Mountain (at least one),Mountains & land,11,3,27.3
+7,MOUNTAINS,Mountains (several),Mountains & land,11,2,18.2
+7,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,11,3,27.3
+7,HILLS,Hills,Mountains & land,11,0,0.0
+7,CLIFF,Cliff,Mountains & land,11,0,0.0
+7,ROCKS,Rocks,Mountains & land,11,1,9.1
+7,PATH,Path,Mountains & land,11,1,9.1
+7,BEACH,Beach,Mountains & land,11,0,0.0
+7,LAKE,Lake,Water,11,4,36.4
+7,RIVER,River,Water,11,5,45.5
+7,OCEAN,Ocean,Water,11,0,0.0
+7,WAVES,Waves,Water,11,0,0.0
+7,WATERFALL,Waterfall,Water,11,2,18.2
+7,CLOUDS,Clouds,Sky & light,11,9,81.8
+7,CIRRUS,Cirrus,Sky & light,11,1,9.1
+7,CUMULUS,Cumulus,Sky & light,11,4,36.4
+7,SUN,Sun,Sky & light,11,1,9.1
+7,MOON,Moon,Sky & light,11,0,0.0
+7,NIGHT,Night,Sky & light,11,0,0.0
+7,FOG,Fog,Sky & light,11,0,0.0
+7,AURORA_BOREALIS,Aurora borealis,Sky & light,11,0,0.0
+7,SNOW,Snow,Winter,11,3,27.3
+7,WINTER,Winter,Winter,11,2,18.2
+7,BARN,Barn,Buildings & objects,11,1,9.1
+7,BOAT,Boat,Buildings & objects,11,1,9.1
+7,BRIDGE,Bridge,Buildings & objects,11,0,0.0
+7,BUILDING,Building,Buildings & objects,11,0,0.0
+7,CABIN,Cabin,Buildings & objects,11,2,18.2
+7,DOCK,Dock,Buildings & objects,11,1,9.1
+7,FARM,Farm,Buildings & objects,11,0,0.0
+7,FENCE,Fence,Buildings & objects,11,0,0.0
+7,FIRE,Fire,Buildings & objects,11,0,0.0
+7,LIGHTHOUSE,Lighthouse,Buildings & objects,11,0,0.0
+7,MILL,Mill,Buildings & objects,11,0,0.0
+7,STRUCTURE,Structure,Buildings & objects,11,4,36.4
+7,WINDMILL,Windmill,Buildings & objects,11,0,0.0
+7,PERSON,Person,People,11,0,0.0
+7,APPLE_FRAME,Apple frame,Frames,11,0,0.0
+7,CIRCLE_FRAME,Circle frame,Frames,11,0,0.0
+7,DOUBLE_OVAL_FRAME,Double oval frame,Frames,11,0,0.0
+7,FLORIDA_FRAME,Florida frame,Frames,11,0,0.0
+7,FRAMED,Any frame,Frames,11,0,0.0
+7,HALF_CIRCLE_FRAME,Half circle frame,Frames,11,0,0.0
+7,HALF_OVAL_FRAME,Half oval frame,Frames,11,0,0.0
+7,OVAL_FRAME,Oval frame,Frames,11,0,0.0
+7,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,11,0,0.0
+7,RECTANGULAR_FRAME,Rectangular frame,Frames,11,0,0.0
+7,SEASHELL_FRAME,Seashell frame,Frames,11,0,0.0
+7,SPLIT_FRAME,Split frame,Frames,11,0,0.0
+7,TOMB_FRAME,Tomb frame,Frames,11,0,0.0
+7,TRIPLE_FRAME,Triple frame,Frames,11,0,0.0
+7,WINDOW_FRAME,Window frame,Frames,11,0,0.0
+7,WOOD_FRAMED,Wood framed,Frames,11,0,0.0
+8,TREE,Tree (at least one),Trees & plants,12,11,91.7
+8,TREES,Trees (several),Trees & plants,12,10,83.3
+8,CONIFER,Conifer,Trees & plants,12,8,66.7
+8,DECIDUOUS,Deciduous,Trees & plants,12,7,58.3
+8,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+8,BUSHES,Bushes,Trees & plants,12,4,33.3
+8,GRASS,Grass,Trees & plants,12,6,50.0
+8,FLOWERS,Flowers,Trees & plants,12,0,0.0
+8,CACTUS,Cactus,Trees & plants,12,1,8.3
+8,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+8,MOUNTAINS,Mountains (several),Mountains & land,12,3,25.0
+8,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,2,16.7
+8,HILLS,Hills,Mountains & land,12,0,0.0
+8,CLIFF,Cliff,Mountains & land,12,0,0.0
+8,ROCKS,Rocks,Mountains & land,12,3,25.0
+8,PATH,Path,Mountains & land,12,3,25.0
+8,BEACH,Beach,Mountains & land,12,0,0.0
+8,LAKE,Lake,Water,12,3,25.0
+8,RIVER,River,Water,12,3,25.0
+8,OCEAN,Ocean,Water,12,0,0.0
+8,WAVES,Waves,Water,12,0,0.0
+8,WATERFALL,Waterfall,Water,12,0,0.0
+8,CLOUDS,Clouds,Sky & light,12,6,50.0
+8,CIRRUS,Cirrus,Sky & light,12,1,8.3
+8,CUMULUS,Cumulus,Sky & light,12,0,0.0
+8,SUN,Sun,Sky & light,12,1,8.3
+8,MOON,Moon,Sky & light,12,0,0.0
+8,NIGHT,Night,Sky & light,12,1,8.3
+8,FOG,Fog,Sky & light,12,1,8.3
+8,AURORA_BOREALIS,Aurora borealis,Sky & light,12,1,8.3
+8,SNOW,Snow,Winter,12,4,33.3
+8,WINTER,Winter,Winter,12,4,33.3
+8,BARN,Barn,Buildings & objects,12,0,0.0
+8,BOAT,Boat,Buildings & objects,12,0,0.0
+8,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+8,BUILDING,Building,Buildings & objects,12,0,0.0
+8,CABIN,Cabin,Buildings & objects,12,6,50.0
+8,DOCK,Dock,Buildings & objects,12,0,0.0
+8,FARM,Farm,Buildings & objects,12,0,0.0
+8,FENCE,Fence,Buildings & objects,12,1,8.3
+8,FIRE,Fire,Buildings & objects,12,0,0.0
+8,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+8,MILL,Mill,Buildings & objects,12,0,0.0
+8,STRUCTURE,Structure,Buildings & objects,12,6,50.0
+8,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+8,PERSON,Person,People,12,0,0.0
+8,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+8,CIRCLE_FRAME,Circle frame,Frames,12,1,8.3
+8,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+8,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+8,FRAMED,Any frame,Frames,12,2,16.7
+8,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+8,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+8,OVAL_FRAME,Oval frame,Frames,12,0,0.0
+8,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+8,RECTANGULAR_FRAME,Rectangular frame,Frames,12,1,8.3
+8,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+8,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+8,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+8,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+8,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+8,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+9,TREE,Tree (at least one),Trees & plants,12,10,83.3
+9,TREES,Trees (several),Trees & plants,12,9,75.0
+9,CONIFER,Conifer,Trees & plants,12,6,50.0
+9,DECIDUOUS,Deciduous,Trees & plants,12,6,50.0
+9,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+9,BUSHES,Bushes,Trees & plants,12,7,58.3
+9,GRASS,Grass,Trees & plants,12,3,25.0
+9,FLOWERS,Flowers,Trees & plants,12,0,0.0
+9,CACTUS,Cactus,Trees & plants,12,0,0.0
+9,MOUNTAIN,Mountain (at least one),Mountains & land,12,9,75.0
+9,MOUNTAINS,Mountains (several),Mountains & land,12,5,41.7
+9,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,7,58.3
+9,HILLS,Hills,Mountains & land,12,0,0.0
+9,CLIFF,Cliff,Mountains & land,12,1,8.3
+9,ROCKS,Rocks,Mountains & land,12,3,25.0
+9,PATH,Path,Mountains & land,12,2,16.7
+9,BEACH,Beach,Mountains & land,12,3,25.0
+9,LAKE,Lake,Water,12,1,8.3
+9,RIVER,River,Water,12,5,41.7
+9,OCEAN,Ocean,Water,12,3,25.0
+9,WAVES,Waves,Water,12,3,25.0
+9,WATERFALL,Waterfall,Water,12,0,0.0
+9,CLOUDS,Clouds,Sky & light,12,9,75.0
+9,CIRRUS,Cirrus,Sky & light,12,2,16.7
+9,CUMULUS,Cumulus,Sky & light,12,5,41.7
+9,SUN,Sun,Sky & light,12,1,8.3
+9,MOON,Moon,Sky & light,12,0,0.0
+9,NIGHT,Night,Sky & light,12,0,0.0
+9,FOG,Fog,Sky & light,12,1,8.3
+9,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+9,SNOW,Snow,Winter,12,1,8.3
+9,WINTER,Winter,Winter,12,1,8.3
+9,BARN,Barn,Buildings & objects,12,0,0.0
+9,BOAT,Boat,Buildings & objects,12,0,0.0
+9,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+9,BUILDING,Building,Buildings & objects,12,0,0.0
+9,CABIN,Cabin,Buildings & objects,12,2,16.7
+9,DOCK,Dock,Buildings & objects,12,0,0.0
+9,FARM,Farm,Buildings & objects,12,0,0.0
+9,FENCE,Fence,Buildings & objects,12,1,8.3
+9,FIRE,Fire,Buildings & objects,12,0,0.0
+9,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+9,MILL,Mill,Buildings & objects,12,0,0.0
+9,STRUCTURE,Structure,Buildings & objects,12,2,16.7
+9,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+9,PERSON,Person,People,12,0,0.0
+9,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+9,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+9,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+9,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+9,FRAMED,Any frame,Frames,12,1,8.3
+9,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+9,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+9,OVAL_FRAME,Oval frame,Frames,12,1,8.3
+9,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+9,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+9,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+9,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+9,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+9,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+9,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+9,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+10,TREE,Tree (at least one),Trees & plants,12,10,83.3
+10,TREES,Trees (several),Trees & plants,12,10,83.3
+10,CONIFER,Conifer,Trees & plants,12,6,50.0
+10,DECIDUOUS,Deciduous,Trees & plants,12,9,75.0
+10,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+10,BUSHES,Bushes,Trees & plants,12,3,25.0
+10,GRASS,Grass,Trees & plants,12,4,33.3
+10,FLOWERS,Flowers,Trees & plants,12,0,0.0
+10,CACTUS,Cactus,Trees & plants,12,0,0.0
+10,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+10,MOUNTAINS,Mountains (several),Mountains & land,12,3,25.0
+10,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,4,33.3
+10,HILLS,Hills,Mountains & land,12,2,16.7
+10,CLIFF,Cliff,Mountains & land,12,0,0.0
+10,ROCKS,Rocks,Mountains & land,12,5,41.7
+10,PATH,Path,Mountains & land,12,2,16.7
+10,BEACH,Beach,Mountains & land,12,1,8.3
+10,LAKE,Lake,Water,12,4,33.3
+10,RIVER,River,Water,12,2,16.7
+10,OCEAN,Ocean,Water,12,2,16.7
+10,WAVES,Waves,Water,12,2,16.7
+10,WATERFALL,Waterfall,Water,12,1,8.3
+10,CLOUDS,Clouds,Sky & light,12,8,66.7
+10,CIRRUS,Cirrus,Sky & light,12,0,0.0
+10,CUMULUS,Cumulus,Sky & light,12,4,33.3
+10,SUN,Sun,Sky & light,12,2,16.7
+10,MOON,Moon,Sky & light,12,0,0.0
+10,NIGHT,Night,Sky & light,12,0,0.0
+10,FOG,Fog,Sky & light,12,0,0.0
+10,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+10,SNOW,Snow,Winter,12,3,25.0
+10,WINTER,Winter,Winter,12,2,16.7
+10,BARN,Barn,Buildings & objects,12,0,0.0
+10,BOAT,Boat,Buildings & objects,12,0,0.0
+10,BRIDGE,Bridge,Buildings & objects,12,1,8.3
+10,BUILDING,Building,Buildings & objects,12,0,0.0
+10,CABIN,Cabin,Buildings & objects,12,3,25.0
+10,DOCK,Dock,Buildings & objects,12,0,0.0
+10,FARM,Farm,Buildings & objects,12,0,0.0
+10,FENCE,Fence,Buildings & objects,12,1,8.3
+10,FIRE,Fire,Buildings & objects,12,0,0.0
+10,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+10,MILL,Mill,Buildings & objects,12,0,0.0
+10,STRUCTURE,Structure,Buildings & objects,12,4,33.3
+10,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+10,PERSON,Person,People,12,0,0.0
+10,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+10,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+10,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+10,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+10,FRAMED,Any frame,Frames,12,1,8.3
+10,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+10,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+10,OVAL_FRAME,Oval frame,Frames,12,0,0.0
+10,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+10,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+10,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+10,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+10,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+10,TRIPLE_FRAME,Triple frame,Frames,12,1,8.3
+10,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+10,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+11,TREE,Tree (at least one),Trees & plants,13,12,92.3
+11,TREES,Trees (several),Trees & plants,13,12,92.3
+11,CONIFER,Conifer,Trees & plants,13,7,53.8
+11,DECIDUOUS,Deciduous,Trees & plants,13,8,61.5
+11,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+11,BUSHES,Bushes,Trees & plants,13,6,46.2
+11,GRASS,Grass,Trees & plants,13,4,30.8
+11,FLOWERS,Flowers,Trees & plants,13,1,7.7
+11,CACTUS,Cactus,Trees & plants,13,0,0.0
+11,MOUNTAIN,Mountain (at least one),Mountains & land,13,3,23.1
+11,MOUNTAINS,Mountains (several),Mountains & land,13,0,0.0
+11,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,3,23.1
+11,HILLS,Hills,Mountains & land,13,0,0.0
+11,CLIFF,Cliff,Mountains & land,13,0,0.0
+11,ROCKS,Rocks,Mountains & land,13,4,30.8
+11,PATH,Path,Mountains & land,13,2,15.4
+11,BEACH,Beach,Mountains & land,13,1,7.7
+11,LAKE,Lake,Water,13,4,30.8
+11,RIVER,River,Water,13,4,30.8
+11,OCEAN,Ocean,Water,13,1,7.7
+11,WAVES,Waves,Water,13,1,7.7
+11,WATERFALL,Waterfall,Water,13,3,23.1
+11,CLOUDS,Clouds,Sky & light,13,10,76.9
+11,CIRRUS,Cirrus,Sky & light,13,1,7.7
+11,CUMULUS,Cumulus,Sky & light,13,5,38.5
+11,SUN,Sun,Sky & light,13,1,7.7
+11,MOON,Moon,Sky & light,13,0,0.0
+11,NIGHT,Night,Sky & light,13,0,0.0
+11,FOG,Fog,Sky & light,13,0,0.0
+11,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+11,SNOW,Snow,Winter,13,4,30.8
+11,WINTER,Winter,Winter,13,3,23.1
+11,BARN,Barn,Buildings & objects,13,3,23.1
+11,BOAT,Boat,Buildings & objects,13,0,0.0
+11,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+11,BUILDING,Building,Buildings & objects,13,0,0.0
+11,CABIN,Cabin,Buildings & objects,13,1,7.7
+11,DOCK,Dock,Buildings & objects,13,0,0.0
+11,FARM,Farm,Buildings & objects,13,0,0.0
+11,FENCE,Fence,Buildings & objects,13,2,15.4
+11,FIRE,Fire,Buildings & objects,13,0,0.0
+11,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+11,MILL,Mill,Buildings & objects,13,0,0.0
+11,STRUCTURE,Structure,Buildings & objects,13,4,30.8
+11,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+11,PERSON,Person,People,13,0,0.0
+11,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+11,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+11,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+11,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+11,FRAMED,Any frame,Frames,13,2,15.4
+11,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+11,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+11,OVAL_FRAME,Oval frame,Frames,13,2,15.4
+11,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+11,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+11,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+11,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+11,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+11,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+11,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+11,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+12,TREE,Tree (at least one),Trees & plants,13,11,84.6
+12,TREES,Trees (several),Trees & plants,13,10,76.9
+12,CONIFER,Conifer,Trees & plants,13,9,69.2
+12,DECIDUOUS,Deciduous,Trees & plants,13,7,53.8
+12,PALM_TREES,Palm trees,Trees & plants,13,1,7.7
+12,BUSHES,Bushes,Trees & plants,13,7,53.8
+12,GRASS,Grass,Trees & plants,13,8,61.5
+12,FLOWERS,Flowers,Trees & plants,13,0,0.0
+12,CACTUS,Cactus,Trees & plants,13,0,0.0
+12,MOUNTAIN,Mountain (at least one),Mountains & land,13,8,61.5
+12,MOUNTAINS,Mountains (several),Mountains & land,13,4,30.8
+12,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,5,38.5
+12,HILLS,Hills,Mountains & land,13,0,0.0
+12,CLIFF,Cliff,Mountains & land,13,0,0.0
+12,ROCKS,Rocks,Mountains & land,13,3,23.1
+12,PATH,Path,Mountains & land,13,1,7.7
+12,BEACH,Beach,Mountains & land,13,2,15.4
+12,LAKE,Lake,Water,13,2,15.4
+12,RIVER,River,Water,13,8,61.5
+12,OCEAN,Ocean,Water,13,2,15.4
+12,WAVES,Waves,Water,13,2,15.4
+12,WATERFALL,Waterfall,Water,13,1,7.7
+12,CLOUDS,Clouds,Sky & light,13,8,61.5
+12,CIRRUS,Cirrus,Sky & light,13,2,15.4
+12,CUMULUS,Cumulus,Sky & light,13,5,38.5
+12,SUN,Sun,Sky & light,13,2,15.4
+12,MOON,Moon,Sky & light,13,0,0.0
+12,NIGHT,Night,Sky & light,13,1,7.7
+12,FOG,Fog,Sky & light,13,1,7.7
+12,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+12,SNOW,Snow,Winter,13,1,7.7
+12,WINTER,Winter,Winter,13,1,7.7
+12,BARN,Barn,Buildings & objects,13,0,0.0
+12,BOAT,Boat,Buildings & objects,13,0,0.0
+12,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+12,BUILDING,Building,Buildings & objects,13,0,0.0
+12,CABIN,Cabin,Buildings & objects,13,2,15.4
+12,DOCK,Dock,Buildings & objects,13,0,0.0
+12,FARM,Farm,Buildings & objects,13,0,0.0
+12,FENCE,Fence,Buildings & objects,13,0,0.0
+12,FIRE,Fire,Buildings & objects,13,0,0.0
+12,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+12,MILL,Mill,Buildings & objects,13,0,0.0
+12,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+12,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+12,PERSON,Person,People,13,0,0.0
+12,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+12,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+12,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+12,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+12,FRAMED,Any frame,Frames,13,1,7.7
+12,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+12,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+12,OVAL_FRAME,Oval frame,Frames,13,1,7.7
+12,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+12,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+12,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+12,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+12,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+12,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+12,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+12,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+13,TREE,Tree (at least one),Trees & plants,13,13,100.0
+13,TREES,Trees (several),Trees & plants,13,13,100.0
+13,CONIFER,Conifer,Trees & plants,13,8,61.5
+13,DECIDUOUS,Deciduous,Trees & plants,13,8,61.5
+13,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+13,BUSHES,Bushes,Trees & plants,13,5,38.5
+13,GRASS,Grass,Trees & plants,13,6,46.2
+13,FLOWERS,Flowers,Trees & plants,13,0,0.0
+13,CACTUS,Cactus,Trees & plants,13,0,0.0
+13,MOUNTAIN,Mountain (at least one),Mountains & land,13,7,53.8
+13,MOUNTAINS,Mountains (several),Mountains & land,13,5,38.5
+13,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,4,30.8
+13,HILLS,Hills,Mountains & land,13,1,7.7
+13,CLIFF,Cliff,Mountains & land,13,0,0.0
+13,ROCKS,Rocks,Mountains & land,13,3,23.1
+13,PATH,Path,Mountains & land,13,2,15.4
+13,BEACH,Beach,Mountains & land,13,0,0.0
+13,LAKE,Lake,Water,13,5,38.5
+13,RIVER,River,Water,13,7,53.8
+13,OCEAN,Ocean,Water,13,1,7.7
+13,WAVES,Waves,Water,13,1,7.7
+13,WATERFALL,Waterfall,Water,13,0,0.0
+13,CLOUDS,Clouds,Sky & light,13,8,61.5
+13,CIRRUS,Cirrus,Sky & light,13,2,15.4
+13,CUMULUS,Cumulus,Sky & light,13,3,23.1
+13,SUN,Sun,Sky & light,13,0,0.0
+13,MOON,Moon,Sky & light,13,0,0.0
+13,NIGHT,Night,Sky & light,13,1,7.7
+13,FOG,Fog,Sky & light,13,0,0.0
+13,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+13,SNOW,Snow,Winter,13,2,15.4
+13,WINTER,Winter,Winter,13,2,15.4
+13,BARN,Barn,Buildings & objects,13,0,0.0
+13,BOAT,Boat,Buildings & objects,13,0,0.0
+13,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+13,BUILDING,Building,Buildings & objects,13,0,0.0
+13,CABIN,Cabin,Buildings & objects,13,3,23.1
+13,DOCK,Dock,Buildings & objects,13,0,0.0
+13,FARM,Farm,Buildings & objects,13,0,0.0
+13,FENCE,Fence,Buildings & objects,13,0,0.0
+13,FIRE,Fire,Buildings & objects,13,0,0.0
+13,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+13,MILL,Mill,Buildings & objects,13,0,0.0
+13,STRUCTURE,Structure,Buildings & objects,13,3,23.1
+13,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+13,PERSON,Person,People,13,0,0.0
+13,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+13,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+13,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+13,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+13,FRAMED,Any frame,Frames,13,2,15.4
+13,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+13,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+13,OVAL_FRAME,Oval frame,Frames,13,2,15.4
+13,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+13,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+13,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+13,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+13,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+13,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+13,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+13,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+14,TREE,Tree (at least one),Trees & plants,12,11,91.7
+14,TREES,Trees (several),Trees & plants,12,11,91.7
+14,CONIFER,Conifer,Trees & plants,12,7,58.3
+14,DECIDUOUS,Deciduous,Trees & plants,12,7,58.3
+14,PALM_TREES,Palm trees,Trees & plants,12,1,8.3
+14,BUSHES,Bushes,Trees & plants,12,2,16.7
+14,GRASS,Grass,Trees & plants,12,6,50.0
+14,FLOWERS,Flowers,Trees & plants,12,0,0.0
+14,CACTUS,Cactus,Trees & plants,12,0,0.0
+14,MOUNTAIN,Mountain (at least one),Mountains & land,12,6,50.0
+14,MOUNTAINS,Mountains (several),Mountains & land,12,4,33.3
+14,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,4,33.3
+14,HILLS,Hills,Mountains & land,12,0,0.0
+14,CLIFF,Cliff,Mountains & land,12,0,0.0
+14,ROCKS,Rocks,Mountains & land,12,1,8.3
+14,PATH,Path,Mountains & land,12,2,16.7
+14,BEACH,Beach,Mountains & land,12,1,8.3
+14,LAKE,Lake,Water,12,3,25.0
+14,RIVER,River,Water,12,5,41.7
+14,OCEAN,Ocean,Water,12,1,8.3
+14,WAVES,Waves,Water,12,1,8.3
+14,WATERFALL,Waterfall,Water,12,0,0.0
+14,CLOUDS,Clouds,Sky & light,12,8,66.7
+14,CIRRUS,Cirrus,Sky & light,12,2,16.7
+14,CUMULUS,Cumulus,Sky & light,12,5,41.7
+14,SUN,Sun,Sky & light,12,1,8.3
+14,MOON,Moon,Sky & light,12,0,0.0
+14,NIGHT,Night,Sky & light,12,1,8.3
+14,FOG,Fog,Sky & light,12,2,16.7
+14,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+14,SNOW,Snow,Winter,12,2,16.7
+14,WINTER,Winter,Winter,12,2,16.7
+14,BARN,Barn,Buildings & objects,12,0,0.0
+14,BOAT,Boat,Buildings & objects,12,0,0.0
+14,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+14,BUILDING,Building,Buildings & objects,12,0,0.0
+14,CABIN,Cabin,Buildings & objects,12,0,0.0
+14,DOCK,Dock,Buildings & objects,12,0,0.0
+14,FARM,Farm,Buildings & objects,12,0,0.0
+14,FENCE,Fence,Buildings & objects,12,1,8.3
+14,FIRE,Fire,Buildings & objects,12,0,0.0
+14,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+14,MILL,Mill,Buildings & objects,12,0,0.0
+14,STRUCTURE,Structure,Buildings & objects,12,0,0.0
+14,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+14,PERSON,Person,People,12,0,0.0
+14,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+14,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+14,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+14,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+14,FRAMED,Any frame,Frames,12,4,33.3
+14,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+14,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+14,OVAL_FRAME,Oval frame,Frames,12,3,25.0
+14,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+14,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+14,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+14,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+14,TOMB_FRAME,Tomb frame,Frames,12,1,8.3
+14,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+14,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+14,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+15,TREE,Tree (at least one),Trees & plants,12,11,91.7
+15,TREES,Trees (several),Trees & plants,12,11,91.7
+15,CONIFER,Conifer,Trees & plants,12,5,41.7
+15,DECIDUOUS,Deciduous,Trees & plants,12,8,66.7
+15,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+15,BUSHES,Bushes,Trees & plants,12,2,16.7
+15,GRASS,Grass,Trees & plants,12,7,58.3
+15,FLOWERS,Flowers,Trees & plants,12,0,0.0
+15,CACTUS,Cactus,Trees & plants,12,0,0.0
+15,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+15,MOUNTAINS,Mountains (several),Mountains & land,12,4,33.3
+15,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,2,16.7
+15,HILLS,Hills,Mountains & land,12,0,0.0
+15,CLIFF,Cliff,Mountains & land,12,0,0.0
+15,ROCKS,Rocks,Mountains & land,12,3,25.0
+15,PATH,Path,Mountains & land,12,3,25.0
+15,BEACH,Beach,Mountains & land,12,1,8.3
+15,LAKE,Lake,Water,12,4,33.3
+15,RIVER,River,Water,12,2,16.7
+15,OCEAN,Ocean,Water,12,1,8.3
+15,WAVES,Waves,Water,12,1,8.3
+15,WATERFALL,Waterfall,Water,12,0,0.0
+15,CLOUDS,Clouds,Sky & light,12,8,66.7
+15,CIRRUS,Cirrus,Sky & light,12,3,25.0
+15,CUMULUS,Cumulus,Sky & light,12,4,33.3
+15,SUN,Sun,Sky & light,12,1,8.3
+15,MOON,Moon,Sky & light,12,0,0.0
+15,NIGHT,Night,Sky & light,12,0,0.0
+15,FOG,Fog,Sky & light,12,0,0.0
+15,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+15,SNOW,Snow,Winter,12,2,16.7
+15,WINTER,Winter,Winter,12,3,25.0
+15,BARN,Barn,Buildings & objects,12,1,8.3
+15,BOAT,Boat,Buildings & objects,12,0,0.0
+15,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+15,BUILDING,Building,Buildings & objects,12,0,0.0
+15,CABIN,Cabin,Buildings & objects,12,4,33.3
+15,DOCK,Dock,Buildings & objects,12,0,0.0
+15,FARM,Farm,Buildings & objects,12,0,0.0
+15,FENCE,Fence,Buildings & objects,12,1,8.3
+15,FIRE,Fire,Buildings & objects,12,0,0.0
+15,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+15,MILL,Mill,Buildings & objects,12,0,0.0
+15,STRUCTURE,Structure,Buildings & objects,12,5,41.7
+15,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+15,PERSON,Person,People,12,0,0.0
+15,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+15,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+15,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+15,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+15,FRAMED,Any frame,Frames,12,2,16.7
+15,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+15,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+15,OVAL_FRAME,Oval frame,Frames,12,2,16.7
+15,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+15,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+15,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+15,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+15,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+15,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+15,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+15,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+16,TREE,Tree (at least one),Trees & plants,11,9,81.8
+16,TREES,Trees (several),Trees & plants,11,9,81.8
+16,CONIFER,Conifer,Trees & plants,11,6,54.5
+16,DECIDUOUS,Deciduous,Trees & plants,11,5,45.5
+16,PALM_TREES,Palm trees,Trees & plants,11,1,9.1
+16,BUSHES,Bushes,Trees & plants,11,3,27.3
+16,GRASS,Grass,Trees & plants,11,2,18.2
+16,FLOWERS,Flowers,Trees & plants,11,1,9.1
+16,CACTUS,Cactus,Trees & plants,11,0,0.0
+16,MOUNTAIN,Mountain (at least one),Mountains & land,11,3,27.3
+16,MOUNTAINS,Mountains (several),Mountains & land,11,1,9.1
+16,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,11,3,27.3
+16,HILLS,Hills,Mountains & land,11,0,0.0
+16,CLIFF,Cliff,Mountains & land,11,0,0.0
+16,ROCKS,Rocks,Mountains & land,11,3,27.3
+16,PATH,Path,Mountains & land,11,1,9.1
+16,BEACH,Beach,Mountains & land,11,1,9.1
+16,LAKE,Lake,Water,11,3,27.3
+16,RIVER,River,Water,11,3,27.3
+16,OCEAN,Ocean,Water,11,1,9.1
+16,WAVES,Waves,Water,11,1,9.1
+16,WATERFALL,Waterfall,Water,11,2,18.2
+16,CLOUDS,Clouds,Sky & light,11,6,54.5
+16,CIRRUS,Cirrus,Sky & light,11,0,0.0
+16,CUMULUS,Cumulus,Sky & light,11,4,36.4
+16,SUN,Sun,Sky & light,11,0,0.0
+16,MOON,Moon,Sky & light,11,0,0.0
+16,NIGHT,Night,Sky & light,11,0,0.0
+16,FOG,Fog,Sky & light,11,2,18.2
+16,AURORA_BOREALIS,Aurora borealis,Sky & light,11,0,0.0
+16,SNOW,Snow,Winter,11,3,27.3
+16,WINTER,Winter,Winter,11,3,27.3
+16,BARN,Barn,Buildings & objects,11,1,9.1
+16,BOAT,Boat,Buildings & objects,11,0,0.0
+16,BRIDGE,Bridge,Buildings & objects,11,0,0.0
+16,BUILDING,Building,Buildings & objects,11,0,0.0
+16,CABIN,Cabin,Buildings & objects,11,2,18.2
+16,DOCK,Dock,Buildings & objects,11,0,0.0
+16,FARM,Farm,Buildings & objects,11,0,0.0
+16,FENCE,Fence,Buildings & objects,11,1,9.1
+16,FIRE,Fire,Buildings & objects,11,0,0.0
+16,LIGHTHOUSE,Lighthouse,Buildings & objects,11,0,0.0
+16,MILL,Mill,Buildings & objects,11,0,0.0
+16,STRUCTURE,Structure,Buildings & objects,11,3,27.3
+16,WINDMILL,Windmill,Buildings & objects,11,0,0.0
+16,PERSON,Person,People,11,0,0.0
+16,APPLE_FRAME,Apple frame,Frames,11,0,0.0
+16,CIRCLE_FRAME,Circle frame,Frames,11,0,0.0
+16,DOUBLE_OVAL_FRAME,Double oval frame,Frames,11,1,9.1
+16,FLORIDA_FRAME,Florida frame,Frames,11,0,0.0
+16,FRAMED,Any frame,Frames,11,3,27.3
+16,HALF_CIRCLE_FRAME,Half circle frame,Frames,11,0,0.0
+16,HALF_OVAL_FRAME,Half oval frame,Frames,11,0,0.0
+16,OVAL_FRAME,Oval frame,Frames,11,2,18.2
+16,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,11,0,0.0
+16,RECTANGULAR_FRAME,Rectangular frame,Frames,11,0,0.0
+16,SEASHELL_FRAME,Seashell frame,Frames,11,0,0.0
+16,SPLIT_FRAME,Split frame,Frames,11,0,0.0
+16,TOMB_FRAME,Tomb frame,Frames,11,0,0.0
+16,TRIPLE_FRAME,Triple frame,Frames,11,0,0.0
+16,WINDOW_FRAME,Window frame,Frames,11,0,0.0
+16,WOOD_FRAMED,Wood framed,Frames,11,0,0.0
+17,TREE,Tree (at least one),Trees & plants,11,10,90.9
+17,TREES,Trees (several),Trees & plants,11,7,63.6
+17,CONIFER,Conifer,Trees & plants,11,4,36.4
+17,DECIDUOUS,Deciduous,Trees & plants,11,7,63.6
+17,PALM_TREES,Palm trees,Trees & plants,11,0,0.0
+17,BUSHES,Bushes,Trees & plants,11,0,0.0
+17,GRASS,Grass,Trees & plants,11,3,27.3
+17,FLOWERS,Flowers,Trees & plants,11,1,9.1
+17,CACTUS,Cactus,Trees & plants,11,0,0.0
+17,MOUNTAIN,Mountain (at least one),Mountains & land,11,3,27.3
+17,MOUNTAINS,Mountains (several),Mountains & land,11,2,18.2
+17,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,11,1,9.1
+17,HILLS,Hills,Mountains & land,11,0,0.0
+17,CLIFF,Cliff,Mountains & land,11,0,0.0
+17,ROCKS,Rocks,Mountains & land,11,3,27.3
+17,PATH,Path,Mountains & land,11,2,18.2
+17,BEACH,Beach,Mountains & land,11,1,9.1
+17,LAKE,Lake,Water,11,3,27.3
+17,RIVER,River,Water,11,5,45.5
+17,OCEAN,Ocean,Water,11,1,9.1
+17,WAVES,Waves,Water,11,1,9.1
+17,WATERFALL,Waterfall,Water,11,2,18.2
+17,CLOUDS,Clouds,Sky & light,11,2,18.2
+17,CIRRUS,Cirrus,Sky & light,11,0,0.0
+17,CUMULUS,Cumulus,Sky & light,11,1,9.1
+17,SUN,Sun,Sky & light,11,1,9.1
+17,MOON,Moon,Sky & light,11,0,0.0
+17,NIGHT,Night,Sky & light,11,0,0.0
+17,FOG,Fog,Sky & light,11,2,18.2
+17,AURORA_BOREALIS,Aurora borealis,Sky & light,11,0,0.0
+17,SNOW,Snow,Winter,11,1,9.1
+17,WINTER,Winter,Winter,11,1,9.1
+17,BARN,Barn,Buildings & objects,11,0,0.0
+17,BOAT,Boat,Buildings & objects,11,0,0.0
+17,BRIDGE,Bridge,Buildings & objects,11,1,9.1
+17,BUILDING,Building,Buildings & objects,11,1,9.1
+17,CABIN,Cabin,Buildings & objects,11,2,18.2
+17,DOCK,Dock,Buildings & objects,11,0,0.0
+17,FARM,Farm,Buildings & objects,11,0,0.0
+17,FENCE,Fence,Buildings & objects,11,1,9.1
+17,FIRE,Fire,Buildings & objects,11,0,0.0
+17,LIGHTHOUSE,Lighthouse,Buildings & objects,11,0,0.0
+17,MILL,Mill,Buildings & objects,11,1,9.1
+17,STRUCTURE,Structure,Buildings & objects,11,4,36.4
+17,WINDMILL,Windmill,Buildings & objects,11,0,0.0
+17,PERSON,Person,People,11,0,0.0
+17,APPLE_FRAME,Apple frame,Frames,11,1,9.1
+17,CIRCLE_FRAME,Circle frame,Frames,11,0,0.0
+17,DOUBLE_OVAL_FRAME,Double oval frame,Frames,11,0,0.0
+17,FLORIDA_FRAME,Florida frame,Frames,11,0,0.0
+17,FRAMED,Any frame,Frames,11,3,27.3
+17,HALF_CIRCLE_FRAME,Half circle frame,Frames,11,0,0.0
+17,HALF_OVAL_FRAME,Half oval frame,Frames,11,0,0.0
+17,OVAL_FRAME,Oval frame,Frames,11,2,18.2
+17,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,11,0,0.0
+17,RECTANGULAR_FRAME,Rectangular frame,Frames,11,0,0.0
+17,SEASHELL_FRAME,Seashell frame,Frames,11,0,0.0
+17,SPLIT_FRAME,Split frame,Frames,11,0,0.0
+17,TOMB_FRAME,Tomb frame,Frames,11,0,0.0
+17,TRIPLE_FRAME,Triple frame,Frames,11,0,0.0
+17,WINDOW_FRAME,Window frame,Frames,11,0,0.0
+17,WOOD_FRAMED,Wood framed,Frames,11,0,0.0
+18,TREE,Tree (at least one),Trees & plants,13,11,84.6
+18,TREES,Trees (several),Trees & plants,13,11,84.6
+18,CONIFER,Conifer,Trees & plants,13,3,23.1
+18,DECIDUOUS,Deciduous,Trees & plants,13,8,61.5
+18,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+18,BUSHES,Bushes,Trees & plants,13,4,30.8
+18,GRASS,Grass,Trees & plants,13,4,30.8
+18,FLOWERS,Flowers,Trees & plants,13,0,0.0
+18,CACTUS,Cactus,Trees & plants,13,1,7.7
+18,MOUNTAIN,Mountain (at least one),Mountains & land,13,4,30.8
+18,MOUNTAINS,Mountains (several),Mountains & land,13,4,30.8
+18,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,1,7.7
+18,HILLS,Hills,Mountains & land,13,0,0.0
+18,CLIFF,Cliff,Mountains & land,13,0,0.0
+18,ROCKS,Rocks,Mountains & land,13,1,7.7
+18,PATH,Path,Mountains & land,13,2,15.4
+18,BEACH,Beach,Mountains & land,13,1,7.7
+18,LAKE,Lake,Water,13,4,30.8
+18,RIVER,River,Water,13,6,46.2
+18,OCEAN,Ocean,Water,13,1,7.7
+18,WAVES,Waves,Water,13,1,7.7
+18,WATERFALL,Waterfall,Water,13,2,15.4
+18,CLOUDS,Clouds,Sky & light,13,6,46.2
+18,CIRRUS,Cirrus,Sky & light,13,2,15.4
+18,CUMULUS,Cumulus,Sky & light,13,3,23.1
+18,SUN,Sun,Sky & light,13,1,7.7
+18,MOON,Moon,Sky & light,13,0,0.0
+18,NIGHT,Night,Sky & light,13,0,0.0
+18,FOG,Fog,Sky & light,13,1,7.7
+18,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+18,SNOW,Snow,Winter,13,2,15.4
+18,WINTER,Winter,Winter,13,2,15.4
+18,BARN,Barn,Buildings & objects,13,0,0.0
+18,BOAT,Boat,Buildings & objects,13,0,0.0
+18,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+18,BUILDING,Building,Buildings & objects,13,0,0.0
+18,CABIN,Cabin,Buildings & objects,13,1,7.7
+18,DOCK,Dock,Buildings & objects,13,0,0.0
+18,FARM,Farm,Buildings & objects,13,0,0.0
+18,FENCE,Fence,Buildings & objects,13,0,0.0
+18,FIRE,Fire,Buildings & objects,13,0,0.0
+18,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+18,MILL,Mill,Buildings & objects,13,0,0.0
+18,STRUCTURE,Structure,Buildings & objects,13,1,7.7
+18,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+18,PERSON,Person,People,13,0,0.0
+18,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+18,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+18,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+18,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+18,FRAMED,Any frame,Frames,13,3,23.1
+18,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,1,7.7
+18,HALF_OVAL_FRAME,Half oval frame,Frames,13,1,7.7
+18,OVAL_FRAME,Oval frame,Frames,13,0,0.0
+18,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+18,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+18,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+18,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+18,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+18,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+18,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+18,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+19,TREE,Tree (at least one),Trees & plants,13,12,92.3
+19,TREES,Trees (several),Trees & plants,13,12,92.3
+19,CONIFER,Conifer,Trees & plants,13,6,46.2
+19,DECIDUOUS,Deciduous,Trees & plants,13,8,61.5
+19,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+19,BUSHES,Bushes,Trees & plants,13,3,23.1
+19,GRASS,Grass,Trees & plants,13,5,38.5
+19,FLOWERS,Flowers,Trees & plants,13,0,0.0
+19,CACTUS,Cactus,Trees & plants,13,0,0.0
+19,MOUNTAIN,Mountain (at least one),Mountains & land,13,4,30.8
+19,MOUNTAINS,Mountains (several),Mountains & land,13,2,15.4
+19,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,1,7.7
+19,HILLS,Hills,Mountains & land,13,0,0.0
+19,CLIFF,Cliff,Mountains & land,13,0,0.0
+19,ROCKS,Rocks,Mountains & land,13,3,23.1
+19,PATH,Path,Mountains & land,13,1,7.7
+19,BEACH,Beach,Mountains & land,13,1,7.7
+19,LAKE,Lake,Water,13,3,23.1
+19,RIVER,River,Water,13,6,46.2
+19,OCEAN,Ocean,Water,13,1,7.7
+19,WAVES,Waves,Water,13,1,7.7
+19,WATERFALL,Waterfall,Water,13,3,23.1
+19,CLOUDS,Clouds,Sky & light,13,4,30.8
+19,CIRRUS,Cirrus,Sky & light,13,0,0.0
+19,CUMULUS,Cumulus,Sky & light,13,4,30.8
+19,SUN,Sun,Sky & light,13,2,15.4
+19,MOON,Moon,Sky & light,13,1,7.7
+19,NIGHT,Night,Sky & light,13,1,7.7
+19,FOG,Fog,Sky & light,13,0,0.0
+19,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+19,SNOW,Snow,Winter,13,5,38.5
+19,WINTER,Winter,Winter,13,5,38.5
+19,BARN,Barn,Buildings & objects,13,1,7.7
+19,BOAT,Boat,Buildings & objects,13,0,0.0
+19,BRIDGE,Bridge,Buildings & objects,13,1,7.7
+19,BUILDING,Building,Buildings & objects,13,0,0.0
+19,CABIN,Cabin,Buildings & objects,13,1,7.7
+19,DOCK,Dock,Buildings & objects,13,0,0.0
+19,FARM,Farm,Buildings & objects,13,0,0.0
+19,FENCE,Fence,Buildings & objects,13,2,15.4
+19,FIRE,Fire,Buildings & objects,13,0,0.0
+19,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+19,MILL,Mill,Buildings & objects,13,0,0.0
+19,STRUCTURE,Structure,Buildings & objects,13,3,23.1
+19,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+19,PERSON,Person,People,13,0,0.0
+19,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+19,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+19,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+19,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+19,FRAMED,Any frame,Frames,13,2,15.4
+19,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+19,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+19,OVAL_FRAME,Oval frame,Frames,13,2,15.4
+19,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+19,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+19,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+19,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+19,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+19,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+19,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+19,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+20,TREE,Tree (at least one),Trees & plants,13,12,92.3
+20,TREES,Trees (several),Trees & plants,13,11,84.6
+20,CONIFER,Conifer,Trees & plants,13,9,69.2
+20,DECIDUOUS,Deciduous,Trees & plants,13,7,53.8
+20,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+20,BUSHES,Bushes,Trees & plants,13,2,15.4
+20,GRASS,Grass,Trees & plants,13,2,15.4
+20,FLOWERS,Flowers,Trees & plants,13,0,0.0
+20,CACTUS,Cactus,Trees & plants,13,0,0.0
+20,MOUNTAIN,Mountain (at least one),Mountains & land,13,7,53.8
+20,MOUNTAINS,Mountains (several),Mountains & land,13,5,38.5
+20,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,7,53.8
+20,HILLS,Hills,Mountains & land,13,0,0.0
+20,CLIFF,Cliff,Mountains & land,13,1,7.7
+20,ROCKS,Rocks,Mountains & land,13,3,23.1
+20,PATH,Path,Mountains & land,13,3,23.1
+20,BEACH,Beach,Mountains & land,13,1,7.7
+20,LAKE,Lake,Water,13,3,23.1
+20,RIVER,River,Water,13,6,46.2
+20,OCEAN,Ocean,Water,13,1,7.7
+20,WAVES,Waves,Water,13,1,7.7
+20,WATERFALL,Waterfall,Water,13,0,0.0
+20,CLOUDS,Clouds,Sky & light,13,5,38.5
+20,CIRRUS,Cirrus,Sky & light,13,1,7.7
+20,CUMULUS,Cumulus,Sky & light,13,3,23.1
+20,SUN,Sun,Sky & light,13,2,15.4
+20,MOON,Moon,Sky & light,13,0,0.0
+20,NIGHT,Night,Sky & light,13,0,0.0
+20,FOG,Fog,Sky & light,13,2,15.4
+20,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+20,SNOW,Snow,Winter,13,3,23.1
+20,WINTER,Winter,Winter,13,3,23.1
+20,BARN,Barn,Buildings & objects,13,1,7.7
+20,BOAT,Boat,Buildings & objects,13,0,0.0
+20,BRIDGE,Bridge,Buildings & objects,13,1,7.7
+20,BUILDING,Building,Buildings & objects,13,0,0.0
+20,CABIN,Cabin,Buildings & objects,13,2,15.4
+20,DOCK,Dock,Buildings & objects,13,0,0.0
+20,FARM,Farm,Buildings & objects,13,0,0.0
+20,FENCE,Fence,Buildings & objects,13,1,7.7
+20,FIRE,Fire,Buildings & objects,13,0,0.0
+20,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+20,MILL,Mill,Buildings & objects,13,0,0.0
+20,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+20,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+20,PERSON,Person,People,13,0,0.0
+20,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+20,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+20,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+20,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+20,FRAMED,Any frame,Frames,13,1,7.7
+20,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+20,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+20,OVAL_FRAME,Oval frame,Frames,13,1,7.7
+20,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+20,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+20,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+20,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+20,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+20,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+20,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+20,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+21,TREE,Tree (at least one),Trees & plants,13,11,84.6
+21,TREES,Trees (several),Trees & plants,13,10,76.9
+21,CONIFER,Conifer,Trees & plants,13,8,61.5
+21,DECIDUOUS,Deciduous,Trees & plants,13,4,30.8
+21,PALM_TREES,Palm trees,Trees & plants,13,1,7.7
+21,BUSHES,Bushes,Trees & plants,13,1,7.7
+21,GRASS,Grass,Trees & plants,13,1,7.7
+21,FLOWERS,Flowers,Trees & plants,13,1,7.7
+21,CACTUS,Cactus,Trees & plants,13,1,7.7
+21,MOUNTAIN,Mountain (at least one),Mountains & land,13,6,46.2
+21,MOUNTAINS,Mountains (several),Mountains & land,13,3,23.1
+21,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,5,38.5
+21,HILLS,Hills,Mountains & land,13,0,0.0
+21,CLIFF,Cliff,Mountains & land,13,1,7.7
+21,ROCKS,Rocks,Mountains & land,13,3,23.1
+21,PATH,Path,Mountains & land,13,2,15.4
+21,BEACH,Beach,Mountains & land,13,2,15.4
+21,LAKE,Lake,Water,13,4,30.8
+21,RIVER,River,Water,13,4,30.8
+21,OCEAN,Ocean,Water,13,2,15.4
+21,WAVES,Waves,Water,13,2,15.4
+21,WATERFALL,Waterfall,Water,13,2,15.4
+21,CLOUDS,Clouds,Sky & light,13,4,30.8
+21,CIRRUS,Cirrus,Sky & light,13,0,0.0
+21,CUMULUS,Cumulus,Sky & light,13,2,15.4
+21,SUN,Sun,Sky & light,13,2,15.4
+21,MOON,Moon,Sky & light,13,0,0.0
+21,NIGHT,Night,Sky & light,13,0,0.0
+21,FOG,Fog,Sky & light,13,1,7.7
+21,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+21,SNOW,Snow,Winter,13,2,15.4
+21,WINTER,Winter,Winter,13,2,15.4
+21,BARN,Barn,Buildings & objects,13,0,0.0
+21,BOAT,Boat,Buildings & objects,13,0,0.0
+21,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+21,BUILDING,Building,Buildings & objects,13,0,0.0
+21,CABIN,Cabin,Buildings & objects,13,2,15.4
+21,DOCK,Dock,Buildings & objects,13,0,0.0
+21,FARM,Farm,Buildings & objects,13,0,0.0
+21,FENCE,Fence,Buildings & objects,13,0,0.0
+21,FIRE,Fire,Buildings & objects,13,0,0.0
+21,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+21,MILL,Mill,Buildings & objects,13,0,0.0
+21,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+21,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+21,PERSON,Person,People,13,0,0.0
+21,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+21,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+21,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+21,FLORIDA_FRAME,Florida frame,Frames,13,1,7.7
+21,FRAMED,Any frame,Frames,13,2,15.4
+21,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+21,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+21,OVAL_FRAME,Oval frame,Frames,13,2,15.4
+21,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+21,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+21,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+21,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+21,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+21,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+21,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+21,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+22,TREE,Tree (at least one),Trees & plants,13,12,92.3
+22,TREES,Trees (several),Trees & plants,13,11,84.6
+22,CONIFER,Conifer,Trees & plants,13,7,53.8
+22,DECIDUOUS,Deciduous,Trees & plants,13,5,38.5
+22,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+22,BUSHES,Bushes,Trees & plants,13,3,23.1
+22,GRASS,Grass,Trees & plants,13,4,30.8
+22,FLOWERS,Flowers,Trees & plants,13,2,15.4
+22,CACTUS,Cactus,Trees & plants,13,0,0.0
+22,MOUNTAIN,Mountain (at least one),Mountains & land,13,4,30.8
+22,MOUNTAINS,Mountains (several),Mountains & land,13,4,30.8
+22,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,3,23.1
+22,HILLS,Hills,Mountains & land,13,1,7.7
+22,CLIFF,Cliff,Mountains & land,13,1,7.7
+22,ROCKS,Rocks,Mountains & land,13,2,15.4
+22,PATH,Path,Mountains & land,13,1,7.7
+22,BEACH,Beach,Mountains & land,13,1,7.7
+22,LAKE,Lake,Water,13,1,7.7
+22,RIVER,River,Water,13,9,69.2
+22,OCEAN,Ocean,Water,13,1,7.7
+22,WAVES,Waves,Water,13,1,7.7
+22,WATERFALL,Waterfall,Water,13,3,23.1
+22,CLOUDS,Clouds,Sky & light,13,4,30.8
+22,CIRRUS,Cirrus,Sky & light,13,0,0.0
+22,CUMULUS,Cumulus,Sky & light,13,2,15.4
+22,SUN,Sun,Sky & light,13,1,7.7
+22,MOON,Moon,Sky & light,13,0,0.0
+22,NIGHT,Night,Sky & light,13,0,0.0
+22,FOG,Fog,Sky & light,13,0,0.0
+22,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+22,SNOW,Snow,Winter,13,2,15.4
+22,WINTER,Winter,Winter,13,2,15.4
+22,BARN,Barn,Buildings & objects,13,1,7.7
+22,BOAT,Boat,Buildings & objects,13,0,0.0
+22,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+22,BUILDING,Building,Buildings & objects,13,0,0.0
+22,CABIN,Cabin,Buildings & objects,13,2,15.4
+22,DOCK,Dock,Buildings & objects,13,0,0.0
+22,FARM,Farm,Buildings & objects,13,0,0.0
+22,FENCE,Fence,Buildings & objects,13,0,0.0
+22,FIRE,Fire,Buildings & objects,13,0,0.0
+22,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+22,MILL,Mill,Buildings & objects,13,0,0.0
+22,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+22,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+22,PERSON,Person,People,13,0,0.0
+22,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+22,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+22,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+22,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+22,FRAMED,Any frame,Frames,13,4,30.8
+22,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+22,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+22,OVAL_FRAME,Oval frame,Frames,13,3,23.1
+22,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,1,7.7
+22,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+22,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+22,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+22,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+22,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+22,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+22,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+23,TREE,Tree (at least one),Trees & plants,13,12,92.3
+23,TREES,Trees (several),Trees & plants,13,9,69.2
+23,CONIFER,Conifer,Trees & plants,13,7,53.8
+23,DECIDUOUS,Deciduous,Trees & plants,13,10,76.9
+23,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+23,BUSHES,Bushes,Trees & plants,13,5,38.5
+23,GRASS,Grass,Trees & plants,13,6,46.2
+23,FLOWERS,Flowers,Trees & plants,13,0,0.0
+23,CACTUS,Cactus,Trees & plants,13,0,0.0
+23,MOUNTAIN,Mountain (at least one),Mountains & land,13,4,30.8
+23,MOUNTAINS,Mountains (several),Mountains & land,13,2,15.4
+23,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,2,15.4
+23,HILLS,Hills,Mountains & land,13,2,15.4
+23,CLIFF,Cliff,Mountains & land,13,1,7.7
+23,ROCKS,Rocks,Mountains & land,13,3,23.1
+23,PATH,Path,Mountains & land,13,2,15.4
+23,BEACH,Beach,Mountains & land,13,1,7.7
+23,LAKE,Lake,Water,13,5,38.5
+23,RIVER,River,Water,13,5,38.5
+23,OCEAN,Ocean,Water,13,1,7.7
+23,WAVES,Waves,Water,13,1,7.7
+23,WATERFALL,Waterfall,Water,13,3,23.1
+23,CLOUDS,Clouds,Sky & light,13,3,23.1
+23,CIRRUS,Cirrus,Sky & light,13,0,0.0
+23,CUMULUS,Cumulus,Sky & light,13,1,7.7
+23,SUN,Sun,Sky & light,13,2,15.4
+23,MOON,Moon,Sky & light,13,0,0.0
+23,NIGHT,Night,Sky & light,13,0,0.0
+23,FOG,Fog,Sky & light,13,0,0.0
+23,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+23,SNOW,Snow,Winter,13,4,30.8
+23,WINTER,Winter,Winter,13,3,23.1
+23,BARN,Barn,Buildings & objects,13,0,0.0
+23,BOAT,Boat,Buildings & objects,13,0,0.0
+23,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+23,BUILDING,Building,Buildings & objects,13,0,0.0
+23,CABIN,Cabin,Buildings & objects,13,3,23.1
+23,DOCK,Dock,Buildings & objects,13,0,0.0
+23,FARM,Farm,Buildings & objects,13,0,0.0
+23,FENCE,Fence,Buildings & objects,13,1,7.7
+23,FIRE,Fire,Buildings & objects,13,0,0.0
+23,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+23,MILL,Mill,Buildings & objects,13,0,0.0
+23,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+23,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+23,PERSON,Person,People,13,0,0.0
+23,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+23,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+23,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+23,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+23,FRAMED,Any frame,Frames,13,3,23.1
+23,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+23,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+23,OVAL_FRAME,Oval frame,Frames,13,3,23.1
+23,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+23,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+23,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+23,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+23,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+23,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+23,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+23,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+24,TREE,Tree (at least one),Trees & plants,12,11,91.7
+24,TREES,Trees (several),Trees & plants,12,11,91.7
+24,CONIFER,Conifer,Trees & plants,12,7,58.3
+24,DECIDUOUS,Deciduous,Trees & plants,12,8,66.7
+24,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+24,BUSHES,Bushes,Trees & plants,12,3,25.0
+24,GRASS,Grass,Trees & plants,12,4,33.3
+24,FLOWERS,Flowers,Trees & plants,12,0,0.0
+24,CACTUS,Cactus,Trees & plants,12,0,0.0
+24,MOUNTAIN,Mountain (at least one),Mountains & land,12,5,41.7
+24,MOUNTAINS,Mountains (several),Mountains & land,12,2,16.7
+24,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,4,33.3
+24,HILLS,Hills,Mountains & land,12,1,8.3
+24,CLIFF,Cliff,Mountains & land,12,1,8.3
+24,ROCKS,Rocks,Mountains & land,12,4,33.3
+24,PATH,Path,Mountains & land,12,1,8.3
+24,BEACH,Beach,Mountains & land,12,1,8.3
+24,LAKE,Lake,Water,12,3,25.0
+24,RIVER,River,Water,12,4,33.3
+24,OCEAN,Ocean,Water,12,1,8.3
+24,WAVES,Waves,Water,12,1,8.3
+24,WATERFALL,Waterfall,Water,12,1,8.3
+24,CLOUDS,Clouds,Sky & light,12,4,33.3
+24,CIRRUS,Cirrus,Sky & light,12,0,0.0
+24,CUMULUS,Cumulus,Sky & light,12,0,0.0
+24,SUN,Sun,Sky & light,12,1,8.3
+24,MOON,Moon,Sky & light,12,0,0.0
+24,NIGHT,Night,Sky & light,12,0,0.0
+24,FOG,Fog,Sky & light,12,0,0.0
+24,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+24,SNOW,Snow,Winter,12,3,25.0
+24,WINTER,Winter,Winter,12,3,25.0
+24,BARN,Barn,Buildings & objects,12,0,0.0
+24,BOAT,Boat,Buildings & objects,12,1,8.3
+24,BRIDGE,Bridge,Buildings & objects,12,1,8.3
+24,BUILDING,Building,Buildings & objects,12,0,0.0
+24,CABIN,Cabin,Buildings & objects,12,3,25.0
+24,DOCK,Dock,Buildings & objects,12,0,0.0
+24,FARM,Farm,Buildings & objects,12,0,0.0
+24,FENCE,Fence,Buildings & objects,12,1,8.3
+24,FIRE,Fire,Buildings & objects,12,0,0.0
+24,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+24,MILL,Mill,Buildings & objects,12,0,0.0
+24,STRUCTURE,Structure,Buildings & objects,12,3,25.0
+24,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+24,PERSON,Person,People,12,0,0.0
+24,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+24,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+24,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+24,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+24,FRAMED,Any frame,Frames,12,2,16.7
+24,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+24,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+24,OVAL_FRAME,Oval frame,Frames,12,2,16.7
+24,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+24,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+24,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+24,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+24,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+24,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+24,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+24,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+25,TREE,Tree (at least one),Trees & plants,12,10,83.3
+25,TREES,Trees (several),Trees & plants,12,8,66.7
+25,CONIFER,Conifer,Trees & plants,12,5,41.7
+25,DECIDUOUS,Deciduous,Trees & plants,12,6,50.0
+25,PALM_TREES,Palm trees,Trees & plants,12,1,8.3
+25,BUSHES,Bushes,Trees & plants,12,3,25.0
+25,GRASS,Grass,Trees & plants,12,1,8.3
+25,FLOWERS,Flowers,Trees & plants,12,0,0.0
+25,CACTUS,Cactus,Trees & plants,12,1,8.3
+25,MOUNTAIN,Mountain (at least one),Mountains & land,12,3,25.0
+25,MOUNTAINS,Mountains (several),Mountains & land,12,0,0.0
+25,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,2,16.7
+25,HILLS,Hills,Mountains & land,12,0,0.0
+25,CLIFF,Cliff,Mountains & land,12,0,0.0
+25,ROCKS,Rocks,Mountains & land,12,2,16.7
+25,PATH,Path,Mountains & land,12,1,8.3
+25,BEACH,Beach,Mountains & land,12,0,0.0
+25,LAKE,Lake,Water,12,6,50.0
+25,RIVER,River,Water,12,3,25.0
+25,OCEAN,Ocean,Water,12,1,8.3
+25,WAVES,Waves,Water,12,1,8.3
+25,WATERFALL,Waterfall,Water,12,3,25.0
+25,CLOUDS,Clouds,Sky & light,12,3,25.0
+25,CIRRUS,Cirrus,Sky & light,12,1,8.3
+25,CUMULUS,Cumulus,Sky & light,12,1,8.3
+25,SUN,Sun,Sky & light,12,1,8.3
+25,MOON,Moon,Sky & light,12,0,0.0
+25,NIGHT,Night,Sky & light,12,0,0.0
+25,FOG,Fog,Sky & light,12,1,8.3
+25,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+25,SNOW,Snow,Winter,12,2,16.7
+25,WINTER,Winter,Winter,12,2,16.7
+25,BARN,Barn,Buildings & objects,12,0,0.0
+25,BOAT,Boat,Buildings & objects,12,0,0.0
+25,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+25,BUILDING,Building,Buildings & objects,12,0,0.0
+25,CABIN,Cabin,Buildings & objects,12,1,8.3
+25,DOCK,Dock,Buildings & objects,12,0,0.0
+25,FARM,Farm,Buildings & objects,12,0,0.0
+25,FENCE,Fence,Buildings & objects,12,2,16.7
+25,FIRE,Fire,Buildings & objects,12,0,0.0
+25,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+25,MILL,Mill,Buildings & objects,12,0,0.0
+25,STRUCTURE,Structure,Buildings & objects,12,1,8.3
+25,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+25,PERSON,Person,People,12,0,0.0
+25,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+25,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+25,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+25,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+25,FRAMED,Any frame,Frames,12,2,16.7
+25,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+25,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+25,OVAL_FRAME,Oval frame,Frames,12,2,16.7
+25,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+25,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+25,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+25,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+25,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+25,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+25,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+25,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+26,TREE,Tree (at least one),Trees & plants,12,11,91.7
+26,TREES,Trees (several),Trees & plants,12,11,91.7
+26,CONIFER,Conifer,Trees & plants,12,7,58.3
+26,DECIDUOUS,Deciduous,Trees & plants,12,6,50.0
+26,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+26,BUSHES,Bushes,Trees & plants,12,3,25.0
+26,GRASS,Grass,Trees & plants,12,6,50.0
+26,FLOWERS,Flowers,Trees & plants,12,1,8.3
+26,CACTUS,Cactus,Trees & plants,12,0,0.0
+26,MOUNTAIN,Mountain (at least one),Mountains & land,12,5,41.7
+26,MOUNTAINS,Mountains (several),Mountains & land,12,1,8.3
+26,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,3,25.0
+26,HILLS,Hills,Mountains & land,12,1,8.3
+26,CLIFF,Cliff,Mountains & land,12,0,0.0
+26,ROCKS,Rocks,Mountains & land,12,2,16.7
+26,PATH,Path,Mountains & land,12,2,16.7
+26,BEACH,Beach,Mountains & land,12,1,8.3
+26,LAKE,Lake,Water,12,5,41.7
+26,RIVER,River,Water,12,4,33.3
+26,OCEAN,Ocean,Water,12,1,8.3
+26,WAVES,Waves,Water,12,1,8.3
+26,WATERFALL,Waterfall,Water,12,1,8.3
+26,CLOUDS,Clouds,Sky & light,12,4,33.3
+26,CIRRUS,Cirrus,Sky & light,12,0,0.0
+26,CUMULUS,Cumulus,Sky & light,12,1,8.3
+26,SUN,Sun,Sky & light,12,1,8.3
+26,MOON,Moon,Sky & light,12,0,0.0
+26,NIGHT,Night,Sky & light,12,1,8.3
+26,FOG,Fog,Sky & light,12,1,8.3
+26,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+26,SNOW,Snow,Winter,12,3,25.0
+26,WINTER,Winter,Winter,12,3,25.0
+26,BARN,Barn,Buildings & objects,12,0,0.0
+26,BOAT,Boat,Buildings & objects,12,0,0.0
+26,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+26,BUILDING,Building,Buildings & objects,12,0,0.0
+26,CABIN,Cabin,Buildings & objects,12,2,16.7
+26,DOCK,Dock,Buildings & objects,12,0,0.0
+26,FARM,Farm,Buildings & objects,12,0,0.0
+26,FENCE,Fence,Buildings & objects,12,1,8.3
+26,FIRE,Fire,Buildings & objects,12,0,0.0
+26,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+26,MILL,Mill,Buildings & objects,12,0,0.0
+26,STRUCTURE,Structure,Buildings & objects,12,2,16.7
+26,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+26,PERSON,Person,People,12,0,0.0
+26,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+26,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+26,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+26,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+26,FRAMED,Any frame,Frames,12,1,8.3
+26,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+26,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+26,OVAL_FRAME,Oval frame,Frames,12,1,8.3
+26,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+26,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+26,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+26,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+26,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+26,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+26,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+26,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+27,TREE,Tree (at least one),Trees & plants,12,11,91.7
+27,TREES,Trees (several),Trees & plants,12,11,91.7
+27,CONIFER,Conifer,Trees & plants,12,9,75.0
+27,DECIDUOUS,Deciduous,Trees & plants,12,6,50.0
+27,PALM_TREES,Palm trees,Trees & plants,12,1,8.3
+27,BUSHES,Bushes,Trees & plants,12,1,8.3
+27,GRASS,Grass,Trees & plants,12,2,16.7
+27,FLOWERS,Flowers,Trees & plants,12,1,8.3
+27,CACTUS,Cactus,Trees & plants,12,0,0.0
+27,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+27,MOUNTAINS,Mountains (several),Mountains & land,12,3,25.0
+27,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,2,16.7
+27,HILLS,Hills,Mountains & land,12,1,8.3
+27,CLIFF,Cliff,Mountains & land,12,0,0.0
+27,ROCKS,Rocks,Mountains & land,12,4,33.3
+27,PATH,Path,Mountains & land,12,1,8.3
+27,BEACH,Beach,Mountains & land,12,1,8.3
+27,LAKE,Lake,Water,12,4,33.3
+27,RIVER,River,Water,12,2,16.7
+27,OCEAN,Ocean,Water,12,1,8.3
+27,WAVES,Waves,Water,12,1,8.3
+27,WATERFALL,Waterfall,Water,12,1,8.3
+27,CLOUDS,Clouds,Sky & light,12,3,25.0
+27,CIRRUS,Cirrus,Sky & light,12,0,0.0
+27,CUMULUS,Cumulus,Sky & light,12,1,8.3
+27,SUN,Sun,Sky & light,12,4,33.3
+27,MOON,Moon,Sky & light,12,0,0.0
+27,NIGHT,Night,Sky & light,12,0,0.0
+27,FOG,Fog,Sky & light,12,3,25.0
+27,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+27,SNOW,Snow,Winter,12,4,33.3
+27,WINTER,Winter,Winter,12,4,33.3
+27,BARN,Barn,Buildings & objects,12,0,0.0
+27,BOAT,Boat,Buildings & objects,12,0,0.0
+27,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+27,BUILDING,Building,Buildings & objects,12,0,0.0
+27,CABIN,Cabin,Buildings & objects,12,4,33.3
+27,DOCK,Dock,Buildings & objects,12,0,0.0
+27,FARM,Farm,Buildings & objects,12,1,8.3
+27,FENCE,Fence,Buildings & objects,12,2,16.7
+27,FIRE,Fire,Buildings & objects,12,0,0.0
+27,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+27,MILL,Mill,Buildings & objects,12,0,0.0
+27,STRUCTURE,Structure,Buildings & objects,12,5,41.7
+27,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+27,PERSON,Person,People,12,0,0.0
+27,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+27,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+27,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+27,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+27,FRAMED,Any frame,Frames,12,3,25.0
+27,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+27,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+27,OVAL_FRAME,Oval frame,Frames,12,3,25.0
+27,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+27,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+27,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+27,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+27,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+27,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+27,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+27,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+28,TREE,Tree (at least one),Trees & plants,13,12,92.3
+28,TREES,Trees (several),Trees & plants,13,11,84.6
+28,CONIFER,Conifer,Trees & plants,13,6,46.2
+28,DECIDUOUS,Deciduous,Trees & plants,13,7,53.8
+28,PALM_TREES,Palm trees,Trees & plants,13,0,0.0
+28,BUSHES,Bushes,Trees & plants,13,4,30.8
+28,GRASS,Grass,Trees & plants,13,6,46.2
+28,FLOWERS,Flowers,Trees & plants,13,0,0.0
+28,CACTUS,Cactus,Trees & plants,13,0,0.0
+28,MOUNTAIN,Mountain (at least one),Mountains & land,13,5,38.5
+28,MOUNTAINS,Mountains (several),Mountains & land,13,2,15.4
+28,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,13,4,30.8
+28,HILLS,Hills,Mountains & land,13,1,7.7
+28,CLIFF,Cliff,Mountains & land,13,0,0.0
+28,ROCKS,Rocks,Mountains & land,13,1,7.7
+28,PATH,Path,Mountains & land,13,2,15.4
+28,BEACH,Beach,Mountains & land,13,1,7.7
+28,LAKE,Lake,Water,13,4,30.8
+28,RIVER,River,Water,13,1,7.7
+28,OCEAN,Ocean,Water,13,1,7.7
+28,WAVES,Waves,Water,13,1,7.7
+28,WATERFALL,Waterfall,Water,13,1,7.7
+28,CLOUDS,Clouds,Sky & light,13,3,23.1
+28,CIRRUS,Cirrus,Sky & light,13,0,0.0
+28,CUMULUS,Cumulus,Sky & light,13,1,7.7
+28,SUN,Sun,Sky & light,13,4,30.8
+28,MOON,Moon,Sky & light,13,0,0.0
+28,NIGHT,Night,Sky & light,13,1,7.7
+28,FOG,Fog,Sky & light,13,2,15.4
+28,AURORA_BOREALIS,Aurora borealis,Sky & light,13,0,0.0
+28,SNOW,Snow,Winter,13,2,15.4
+28,WINTER,Winter,Winter,13,2,15.4
+28,BARN,Barn,Buildings & objects,13,2,15.4
+28,BOAT,Boat,Buildings & objects,13,0,0.0
+28,BRIDGE,Bridge,Buildings & objects,13,0,0.0
+28,BUILDING,Building,Buildings & objects,13,0,0.0
+28,CABIN,Cabin,Buildings & objects,13,1,7.7
+28,DOCK,Dock,Buildings & objects,13,0,0.0
+28,FARM,Farm,Buildings & objects,13,0,0.0
+28,FENCE,Fence,Buildings & objects,13,1,7.7
+28,FIRE,Fire,Buildings & objects,13,0,0.0
+28,LIGHTHOUSE,Lighthouse,Buildings & objects,13,0,0.0
+28,MILL,Mill,Buildings & objects,13,0,0.0
+28,STRUCTURE,Structure,Buildings & objects,13,2,15.4
+28,WINDMILL,Windmill,Buildings & objects,13,0,0.0
+28,PERSON,Person,People,13,0,0.0
+28,APPLE_FRAME,Apple frame,Frames,13,0,0.0
+28,CIRCLE_FRAME,Circle frame,Frames,13,0,0.0
+28,DOUBLE_OVAL_FRAME,Double oval frame,Frames,13,0,0.0
+28,FLORIDA_FRAME,Florida frame,Frames,13,0,0.0
+28,FRAMED,Any frame,Frames,13,0,0.0
+28,HALF_CIRCLE_FRAME,Half circle frame,Frames,13,0,0.0
+28,HALF_OVAL_FRAME,Half oval frame,Frames,13,0,0.0
+28,OVAL_FRAME,Oval frame,Frames,13,0,0.0
+28,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,13,0,0.0
+28,RECTANGULAR_FRAME,Rectangular frame,Frames,13,0,0.0
+28,SEASHELL_FRAME,Seashell frame,Frames,13,0,0.0
+28,SPLIT_FRAME,Split frame,Frames,13,0,0.0
+28,TOMB_FRAME,Tomb frame,Frames,13,0,0.0
+28,TRIPLE_FRAME,Triple frame,Frames,13,0,0.0
+28,WINDOW_FRAME,Window frame,Frames,13,0,0.0
+28,WOOD_FRAMED,Wood framed,Frames,13,0,0.0
+29,TREE,Tree (at least one),Trees & plants,12,11,91.7
+29,TREES,Trees (several),Trees & plants,12,10,83.3
+29,CONIFER,Conifer,Trees & plants,12,8,66.7
+29,DECIDUOUS,Deciduous,Trees & plants,12,4,33.3
+29,PALM_TREES,Palm trees,Trees & plants,12,1,8.3
+29,BUSHES,Bushes,Trees & plants,12,6,50.0
+29,GRASS,Grass,Trees & plants,12,5,41.7
+29,FLOWERS,Flowers,Trees & plants,12,0,0.0
+29,CACTUS,Cactus,Trees & plants,12,0,0.0
+29,MOUNTAIN,Mountain (at least one),Mountains & land,12,6,50.0
+29,MOUNTAINS,Mountains (several),Mountains & land,12,6,50.0
+29,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,4,33.3
+29,HILLS,Hills,Mountains & land,12,0,0.0
+29,CLIFF,Cliff,Mountains & land,12,0,0.0
+29,ROCKS,Rocks,Mountains & land,12,1,8.3
+29,PATH,Path,Mountains & land,12,2,16.7
+29,BEACH,Beach,Mountains & land,12,1,8.3
+29,LAKE,Lake,Water,12,7,58.3
+29,RIVER,River,Water,12,2,16.7
+29,OCEAN,Ocean,Water,12,1,8.3
+29,WAVES,Waves,Water,12,1,8.3
+29,WATERFALL,Waterfall,Water,12,1,8.3
+29,CLOUDS,Clouds,Sky & light,12,3,25.0
+29,CIRRUS,Cirrus,Sky & light,12,0,0.0
+29,CUMULUS,Cumulus,Sky & light,12,1,8.3
+29,SUN,Sun,Sky & light,12,1,8.3
+29,MOON,Moon,Sky & light,12,0,0.0
+29,NIGHT,Night,Sky & light,12,1,8.3
+29,FOG,Fog,Sky & light,12,0,0.0
+29,AURORA_BOREALIS,Aurora borealis,Sky & light,12,1,8.3
+29,SNOW,Snow,Winter,12,3,25.0
+29,WINTER,Winter,Winter,12,3,25.0
+29,BARN,Barn,Buildings & objects,12,1,8.3
+29,BOAT,Boat,Buildings & objects,12,0,0.0
+29,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+29,BUILDING,Building,Buildings & objects,12,0,0.0
+29,CABIN,Cabin,Buildings & objects,12,3,25.0
+29,DOCK,Dock,Buildings & objects,12,0,0.0
+29,FARM,Farm,Buildings & objects,12,0,0.0
+29,FENCE,Fence,Buildings & objects,12,0,0.0
+29,FIRE,Fire,Buildings & objects,12,0,0.0
+29,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+29,MILL,Mill,Buildings & objects,12,0,0.0
+29,STRUCTURE,Structure,Buildings & objects,12,3,25.0
+29,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+29,PERSON,Person,People,12,0,0.0
+29,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+29,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+29,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+29,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+29,FRAMED,Any frame,Frames,12,2,16.7
+29,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+29,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+29,OVAL_FRAME,Oval frame,Frames,12,1,8.3
+29,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+29,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+29,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+29,SPLIT_FRAME,Split frame,Frames,12,1,8.3
+29,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+29,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+29,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+29,WOOD_FRAMED,Wood framed,Frames,12,0,0.0
+30,TREE,Tree (at least one),Trees & plants,12,11,91.7
+30,TREES,Trees (several),Trees & plants,12,9,75.0
+30,CONIFER,Conifer,Trees & plants,12,8,66.7
+30,DECIDUOUS,Deciduous,Trees & plants,12,6,50.0
+30,PALM_TREES,Palm trees,Trees & plants,12,0,0.0
+30,BUSHES,Bushes,Trees & plants,12,4,33.3
+30,GRASS,Grass,Trees & plants,12,4,33.3
+30,FLOWERS,Flowers,Trees & plants,12,0,0.0
+30,CACTUS,Cactus,Trees & plants,12,0,0.0
+30,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+30,MOUNTAINS,Mountains (several),Mountains & land,12,1,8.3
+30,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,2,16.7
+30,HILLS,Hills,Mountains & land,12,1,8.3
+30,CLIFF,Cliff,Mountains & land,12,0,0.0
+30,ROCKS,Rocks,Mountains & land,12,2,16.7
+30,PATH,Path,Mountains & land,12,2,16.7
+30,BEACH,Beach,Mountains & land,12,1,8.3
+30,LAKE,Lake,Water,12,6,50.0
+30,RIVER,River,Water,12,2,16.7
+30,OCEAN,Ocean,Water,12,1,8.3
+30,WAVES,Waves,Water,12,1,8.3
+30,WATERFALL,Waterfall,Water,12,2,16.7
+30,CLOUDS,Clouds,Sky & light,12,4,33.3
+30,CIRRUS,Cirrus,Sky & light,12,0,0.0
+30,CUMULUS,Cumulus,Sky & light,12,2,16.7
+30,SUN,Sun,Sky & light,12,1,8.3
+30,MOON,Moon,Sky & light,12,0,0.0
+30,NIGHT,Night,Sky & light,12,0,0.0
+30,FOG,Fog,Sky & light,12,0,0.0
+30,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+30,SNOW,Snow,Winter,12,1,8.3
+30,WINTER,Winter,Winter,12,1,8.3
+30,BARN,Barn,Buildings & objects,12,0,0.0
+30,BOAT,Boat,Buildings & objects,12,0,0.0
+30,BRIDGE,Bridge,Buildings & objects,12,0,0.0
+30,BUILDING,Building,Buildings & objects,12,0,0.0
+30,CABIN,Cabin,Buildings & objects,12,3,25.0
+30,DOCK,Dock,Buildings & objects,12,0,0.0
+30,FARM,Farm,Buildings & objects,12,0,0.0
+30,FENCE,Fence,Buildings & objects,12,0,0.0
+30,FIRE,Fire,Buildings & objects,12,0,0.0
+30,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+30,MILL,Mill,Buildings & objects,12,0,0.0
+30,STRUCTURE,Structure,Buildings & objects,12,2,16.7
+30,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+30,PERSON,Person,People,12,0,0.0
+30,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+30,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+30,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+30,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+30,FRAMED,Any frame,Frames,12,2,16.7
+30,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+30,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+30,OVAL_FRAME,Oval frame,Frames,12,0,0.0
+30,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+30,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+30,SEASHELL_FRAME,Seashell frame,Frames,12,0,0.0
+30,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+30,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+30,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+30,WINDOW_FRAME,Window frame,Frames,12,1,8.3
+30,WOOD_FRAMED,Wood framed,Frames,12,1,8.3
+31,TREE,Tree (at least one),Trees & plants,12,11,91.7
+31,TREES,Trees (several),Trees & plants,12,11,91.7
+31,CONIFER,Conifer,Trees & plants,12,7,58.3
+31,DECIDUOUS,Deciduous,Trees & plants,12,5,41.7
+31,PALM_TREES,Palm trees,Trees & plants,12,1,8.3
+31,BUSHES,Bushes,Trees & plants,12,2,16.7
+31,GRASS,Grass,Trees & plants,12,5,41.7
+31,FLOWERS,Flowers,Trees & plants,12,0,0.0
+31,CACTUS,Cactus,Trees & plants,12,0,0.0
+31,MOUNTAIN,Mountain (at least one),Mountains & land,12,4,33.3
+31,MOUNTAINS,Mountains (several),Mountains & land,12,3,25.0
+31,SNOWY_MOUNTAIN,Snowy mountain,Mountains & land,12,1,8.3
+31,HILLS,Hills,Mountains & land,12,0,0.0
+31,CLIFF,Cliff,Mountains & land,12,0,0.0
+31,ROCKS,Rocks,Mountains & land,12,4,33.3
+31,PATH,Path,Mountains & land,12,3,25.0
+31,BEACH,Beach,Mountains & land,12,1,8.3
+31,LAKE,Lake,Water,12,3,25.0
+31,RIVER,River,Water,12,4,33.3
+31,OCEAN,Ocean,Water,12,1,8.3
+31,WAVES,Waves,Water,12,1,8.3
+31,WATERFALL,Waterfall,Water,12,0,0.0
+31,CLOUDS,Clouds,Sky & light,12,3,25.0
+31,CIRRUS,Cirrus,Sky & light,12,0,0.0
+31,CUMULUS,Cumulus,Sky & light,12,0,0.0
+31,SUN,Sun,Sky & light,12,0,0.0
+31,MOON,Moon,Sky & light,12,0,0.0
+31,NIGHT,Night,Sky & light,12,0,0.0
+31,FOG,Fog,Sky & light,12,1,8.3
+31,AURORA_BOREALIS,Aurora borealis,Sky & light,12,0,0.0
+31,SNOW,Snow,Winter,12,2,16.7
+31,WINTER,Winter,Winter,12,2,16.7
+31,BARN,Barn,Buildings & objects,12,1,8.3
+31,BOAT,Boat,Buildings & objects,12,0,0.0
+31,BRIDGE,Bridge,Buildings & objects,12,1,8.3
+31,BUILDING,Building,Buildings & objects,12,0,0.0
+31,CABIN,Cabin,Buildings & objects,12,2,16.7
+31,DOCK,Dock,Buildings & objects,12,0,0.0
+31,FARM,Farm,Buildings & objects,12,0,0.0
+31,FENCE,Fence,Buildings & objects,12,0,0.0
+31,FIRE,Fire,Buildings & objects,12,0,0.0
+31,LIGHTHOUSE,Lighthouse,Buildings & objects,12,0,0.0
+31,MILL,Mill,Buildings & objects,12,0,0.0
+31,STRUCTURE,Structure,Buildings & objects,12,3,25.0
+31,WINDMILL,Windmill,Buildings & objects,12,0,0.0
+31,PERSON,Person,People,12,0,0.0
+31,APPLE_FRAME,Apple frame,Frames,12,0,0.0
+31,CIRCLE_FRAME,Circle frame,Frames,12,0,0.0
+31,DOUBLE_OVAL_FRAME,Double oval frame,Frames,12,0,0.0
+31,FLORIDA_FRAME,Florida frame,Frames,12,0,0.0
+31,FRAMED,Any frame,Frames,12,2,16.7
+31,HALF_CIRCLE_FRAME,Half circle frame,Frames,12,0,0.0
+31,HALF_OVAL_FRAME,Half oval frame,Frames,12,0,0.0
+31,OVAL_FRAME,Oval frame,Frames,12,1,8.3
+31,RECTANGLE_3D_FRAME,3D rectangle frame,Frames,12,0,0.0
+31,RECTANGULAR_FRAME,Rectangular frame,Frames,12,0,0.0
+31,SEASHELL_FRAME,Seashell frame,Frames,12,1,8.3
+31,SPLIT_FRAME,Split frame,Frames,12,0,0.0
+31,TOMB_FRAME,Tomb frame,Frames,12,0,0.0
+31,TRIPLE_FRAME,Triple frame,Frames,12,0,0.0
+31,WINDOW_FRAME,Window frame,Frames,12,0,0.0
+31,WOOD_FRAMED,Wood framed,Frames,12,0,0.0

@@ -1,0 +1,404 @@
+episode_code,season,episode_number,title,painted_by,included_in_analysis,nothing_recorded,scene_elements,framed,elements
+S01E01,1,1,A Walk In The Woods,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; River
+S01E02,1,2,Mt. Mckinley,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; Clouds; Snow; Winter; Cabin
+S01E03,1,3,Ebony Sunset,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Sun; Winter; Cabin; Fence; Structure
+S01E04,1,4,Winter Mist,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; Lake; Clouds
+S01E05,1,5,Quiet Stream,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Rocks; River
+S01E06,1,6,Winter Moon,Bob Ross,True,False,13,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Moon; Night; Snow; Winter; Cabin; Structure
+S01E07,1,7,Autumn Mountains,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; Lake
+S01E08,1,8,Peaceful Valley,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Lake
+S01E09,1,9,Seascape,Bob Ross,True,False,4,0,Beach; Ocean; Clouds; Fence
+S01E10,1,10,Mountain Lake,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Lake
+S01E11,1,11,Winter Glow,Bob Ross,True,False,4,0,Tree (at least one); Trees (several); Deciduous; Lake
+S01E12,1,12,Snowfall,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cirrus
+S01E13,1,13,Final Reflections,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Snowy mountain
+S02E01,2,1,Meadow Lake,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Snowy mountain; Lake; Cumulus
+S02E02,2,2,Winter Sun,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Lake; Sun; Snow
+S02E03,2,3,Ebony Sea,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Ocean; Waves; Clouds; Cumulus; Sun
+S02E04,2,4,Shades Of Grey,Bob Ross,True,False,14,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cumulus; Snow; Cabin; Structure
+S02E05,2,5,Autumn Splendor,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Lake
+S02E06,2,6,Black River,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; River; Clouds; Cumulus
+S02E07,2,7,Brown Mountain,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Lake; Clouds; Cumulus
+S02E08,2,8,Reflections,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; Lake; Clouds; Cirrus
+S02E09,2,9,Black & White Seascape,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Rocks; Ocean; Waves; Cirrus; Cumulus; Sun
+S02E10,2,10,Lazy River,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; River
+S02E11,2,11,Black Waterfall,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Rocks; River; Waterfall; Clouds; Cumulus
+S02E12,2,12,Mountain Waterfall,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Waterfall
+S02E13,2,13,Final Grace,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cumulus
+S03E01,3,1,Mountain Retreat,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Lake; Cabin; Structure
+S03E02,3,2,Blue Moon,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Palm trees; Ocean; Waves; Clouds; Cumulus; Moon; Night
+S03E03,3,3,Bubbling Stream,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; River
+S03E04,3,4,Winter Night,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Snow; Winter; Cabin; Structure
+S03E05,3,5,Distant Hills,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Hills; Lake; Clouds; Cirrus
+S03E06,3,6,Covered Bridge,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Path; Bridge; Structure
+S03E07,3,7,Quiet Inlet,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Mountain (at least one); Mountains (several); Lake
+S03E08,3,8,Night Light,Bob Ross,True,False,8,0,Cliff; Ocean; Waves; Clouds; Cumulus; Night; Lighthouse; Structure
+S03E09,3,9,The Old Mill,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Bushes; River; Clouds; Cumulus; Cabin; Mill; Structure
+S03E10,3,10,Campfire,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Lake; Fire; Person
+S03E11,3,11,Rustic Barn,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Lake; Barn; Fence; Structure
+S03E12,3,12,Hidden Lake,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Lake
+S03E13,3,13,Peaceful Waters,Steve Ross (guest),False,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus
+S04E01,4,1,Purple Splendor,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Lake; Snow; Winter; Cabin; Structure
+S04E02,4,2,Tranquil Valley,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Mountain (at least one); Mountains (several); Lake; Clouds; Cumulus
+S04E03,4,3,Majestic Mountains,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); Snowy mountain
+S04E04,4,4,Winter Sawscape,Other guest,False,False,11,1,Tree (at least one); Trees (several); Conifer; Deciduous; Lake; Clouds; Cumulus; Snow; Winter; Cabin; Structure
+S04E05,4,5,Evening Seascape,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Cliff; Rocks; Beach; Ocean; Waves; Clouds; Cumulus
+S04E06,4,6,Warm Summer Day,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Bushes; Lake
+S04E07,4,7,Cabin In The Woods,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Path; Cabin; Structure
+S04E08,4,8,Wetlands,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Lake
+S04E09,4,9,Cool Waters,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds
+S04E10,4,10,Quiet Woods,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; River
+S04E11,4,11,Northwest Majesty,Diane André (guest),False,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Clouds; Cumulus
+S04E12,4,12,Autumn Days,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; Hills; Lake
+S04E13,4,13,Mountain Challenge,Bob Ross,True,False,6,0,Tree (at least one); Conifer; Grass; Mountain (at least one); Snowy mountain; Lake
+S05E01,5,1,Mountain Waterfall,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Waterfall; Clouds; Cumulus
+S05E02,5,2,Twilight Meadow,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Lake; Clouds; Cumulus
+S05E03,5,3,Mountain Blossoms,Other guest,False,False,8,0,Tree (at least one); Trees (several); Conifer; Flowers; Mountain (at least one); Mountains (several); Snowy mountain; Snow
+S05E04,5,4,Winter Stillness,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Deciduous; Lake; Snow; Winter
+S05E05,5,5,Quiet Pond,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; Lake
+S05E06,5,6,Ocean Sunrise,Other guest,False,False,4,0,Grass; Ocean; Clouds; Sun
+S05E07,5,7,Bubbling Brook,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; River
+S05E08,5,8,Arizona Splendor,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Mountains (several); River
+S05E09,5,9,Anatomy Of A Wave,Other guest,False,False,2,0,Ocean; Waves
+S05E10,5,10,The Windmill,Bob Ross,True,False,7,0,Tree (at least one); Deciduous; Path; Clouds; Barn; Structure; Windmill
+S05E11,5,11,Autumn Glory,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Mountain (at least one); Snowy mountain; Rocks; Lake; Clouds; Cumulus
+S05E12,5,12,Indian Girl,Other guest,False,False,1,0,Portrait
+S05E13,5,13,Meadow Stream,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; River; Clouds; Barn; Structure
+S06E01,6,1,Blue River,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Hills; River
+S06E02,6,2,Nature'S Edge,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Lake; Clouds; Fog; Cabin; Structure
+S06E03,6,3,Morning Mist,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; Lake; Clouds; Fog
+S06E04,6,4,Whispering Stream,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; River
+S06E05,6,5,Secluded Forest,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Bushes; River
+S06E06,6,6,Snow Trail,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Grass; Clouds; Cumulus; Snow
+S06E07,6,7,Arctic Beauty,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Snowy mountain; River; Waterfall; Clouds; Cirrus
+S06E08,6,8,Horizons West,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; Lake
+S06E09,6,9,High Chateau,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Rocks; Clouds; Cumulus; Cabin
+S06E10,6,10,Country Life,Bob Ross,True,False,5,0,Grass; Clouds; Cirrus; Barn; Fence
+S06E11,6,11,Western Expanse,Bob Ross,True,False,7,0,Tree (at least one); Deciduous; Mountain (at least one); Mountains (several); River; Clouds; Cirrus
+S06E12,6,12,Marshlands,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; Lake; Clouds
+S06E13,6,13,Blaze Of Color,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Hills; River; Clouds
+S07E01,7,1,Winter Cabin,Bob Ross,True,False,7,0,Tree (at least one); Deciduous; Clouds; Snow; Winter; Cabin; Structure
+S07E02,7,2,Secluded Lake,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; Lake; Clouds
+S07E03,7,3,Evergreens At Sunset,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; River; Clouds; Cirrus; Sun
+S07E04,7,4,Mountain Cabin,Bob Ross,True,False,12,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cumulus; Cabin; Structure
+S07E05,7,5,Portrait Of Sally,Other guest,False,False,1,0,Portrait
+S07E06,7,6,Misty Waterfall,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Bushes; Lake; River; Waterfall; Clouds; Cumulus
+S07E07,7,7,Barn At Sunset,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Path; Clouds; Cumulus; Snow; Barn; Structure
+S07E08,7,8,Mountain Splendor,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Mountain (at least one); Snowy mountain; River
+S07E09,7,9,Lake By Mountain,Steve Ross (guest),False,False,9,0,Tree (at least one); Trees (several); Deciduous; Bushes; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus
+S07E10,7,10,Mountain Glory,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Clouds
+S07E11,7,11,Grey Winter,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Bushes; Lake; Clouds; Snow; Winter
+S07E12,7,12,Dock Scene,Bob Ross,True,False,8,0,Tree (at least one); Deciduous; Lake; Clouds; Cumulus; Boat; Dock; Structure
+S07E13,7,13,Dark Waterfall,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; River; Waterfall
+S08E01,8,1,Misty Rolling Hills,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Fog
+S08E02,8,2,Lakeside Cabin,Bob Ross,True,False,9,1,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Lake; Clouds; Cabin; Structure
+S08E03,8,3,Warm Winter Day,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Grass; Sun; Snow; Winter; Cabin; Structure
+S08E04,8,4,Waterside Way,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Rocks; Path; Lake
+S08E05,8,5,Hunter'S Haven,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Rocks; Path; River; Clouds; Cirrus; Cabin; Structure
+S08E06,8,6,Bubbling Mountain Brook,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); River; Clouds
+S08E07,8,7,Winter Hideaway,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Snow; Winter; Cabin; Fence; Structure
+S08E08,8,8,Foot Of The Mountain,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Mountains (several); Snowy mountain; River
+S08E09,8,9,Majestic Pine,Bob Ross,True,False,5,1,Tree (at least one); Trees (several); Conifer; Bushes; Clouds
+S08E10,8,10,Cactus At Sunset,Bob Ross,True,False,4,0,Cactus; Rocks; Path; Clouds
+S08E11,8,11,Mountain Range,Steve Ross (guest),False,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cumulus
+S08E12,8,12,Lonely Retreat,Bob Ross,True,False,7,0,Tree (at least one); Conifer; Clouds; Snow; Winter; Cabin; Structure
+S08E13,8,13,Northern Lights,Bob Ross,True,False,13,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Snowy mountain; Lake; Night; Aurora borealis; Snow; Winter; Cabin; Structure
+S09E01,9,1,Winter Evergreens,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Clouds; Cirrus; Sun; Snow; Winter
+S09E02,9,2,Surf'S Up,Bob Ross,True,False,7,0,Cliff; Rocks; Beach; Ocean; Waves; Clouds; Cumulus
+S09E03,9,3,Red Sunset,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Bushes; Lake; Clouds
+S09E04,9,4,Meadow Road,Bob Ross,True,False,12,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Path; Clouds; Cumulus
+S09E05,9,5,Winter Oval,Bob Ross,True,False,10,1,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; River; Fog; Cabin; Structure
+S09E06,9,6,Secluded Beach,Bob Ross,True,False,6,0,Rocks; Beach; Ocean; Waves; Clouds; Cumulus
+S09E07,9,7,Forest Hills,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Rocks; River
+S09E08,9,8,Little House By-The-Road,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Mountain (at least one); Path; Cabin; Fence; Structure
+S09E09,9,9,Mountain Path,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Bushes; Mountain (at least one); Snowy mountain; River; Clouds
+S09E10,9,10,Country Charm,Bob Ross,False,True,0,0,
+S09E11,9,11,Nature'S Paradise,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Mountain (at least one); Mountains (several); River; Clouds; Cumulus
+S09E12,9,12,Mountain-By-The-Sea,Bob Ross,True,False,10,0,Tree (at least one); Deciduous; Bushes; Mountain (at least one); Snowy mountain; Beach; Ocean; Waves; Clouds; Cumulus
+S09E13,9,13,Mountain Hide-Away,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cirrus
+S10E01,10,1,Towering Peaks,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Snowy mountain; Hills; Lake; Clouds; Cumulus
+S10E02,10,2,Cabin At Sunset,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Grass; Clouds; Cabin; Fence; Structure
+S10E03,10,3,Twin Falls,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Hills; Rocks; River; Waterfall; Clouds
+S10E04,10,4,Secluded Bridge,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Rocks; River; Bridge; Structure
+S10E05,10,5,Ocean Breeze,Bob Ross,True,False,5,0,Rocks; Ocean; Waves; Clouds; Cumulus
+S10E06,10,6,Autumn Woods,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cumulus
+S10E07,10,7,Winter Solitude,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; Snow; Winter
+S10E08,10,8,Golden Sunset,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Lake; Sun; Snow
+S10E09,10,9,Mountain Oval,Steve Ross (guest),False,False,11,1,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cirrus
+S10E10,10,10,Ocean Sunset,Bob Ross,True,False,5,0,Rocks; Beach; Ocean; Waves; Clouds
+S10E11,10,11,Triple View,Bob Ross,True,False,11,1,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Path; Cabin; Structure
+S10E12,10,12,Winter Frost,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; Clouds; Sun; Snow; Winter
+S10E13,10,13,Lakeside Cabin,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; Path; Lake; Clouds; Cumulus; Cabin; Structure
+S11E01,11,1,Mountain Stream,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Snowy mountain; River
+S11E02,11,2,Country Cabin,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Clouds; Snow; Winter; Cabin; Structure
+S11E03,11,3,Daisy Delight,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Conifer; Flowers; Fence
+S11E04,11,4,Hidden Stream,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; River; Waterfall; Clouds
+S11E05,11,5,Towering Glacier,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Snowy mountain; Rocks; River; Waterfall; Clouds; Cumulus
+S11E06,11,6,Oval Barn,Bob Ross,True,False,10,1,Tree (at least one); Trees (several); Deciduous; Bushes; Clouds; Cumulus; Snow; Winter; Barn; Structure
+S11E07,11,7,Lakeside Path,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Rocks; Path; Lake; Clouds; Cumulus
+S11E08,11,8,Sunset Oval,Bob Ross,True,False,10,1,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus
+S11E09,11,9,Winter Barn,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Clouds; Cirrus; Snow; Winter; Barn; Structure
+S11E10,11,10,Sunset Over The Waves,Bob Ross,True,False,6,0,Rocks; Beach; Ocean; Waves; Clouds; Sun
+S11E11,11,11,Golden Glow,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Lake; Waterfall; Clouds; Snow
+S11E12,11,12,Roadside Barn,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Path; Lake; Clouds; Cumulus; Barn; Fence; Structure
+S11E13,11,13,Happy Accident,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Rocks; River
+S12E01,12,1,Golden Knoll,Bob Ross,True,False,7,0,Tree (at least one); Deciduous; Grass; Sun; Fog; Cabin; Structure
+S12E02,12,2,Mountain Reflections,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Rocks; River; Clouds; Cumulus
+S12E03,12,3,Secluded Mountain,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Rocks; Lake; Clouds; Cumulus
+S12E04,12,4,Bright Autumn Trees,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; Path; River
+S12E05,12,5,Black Seascape,Bob Ross,True,False,7,0,Rocks; Beach; Ocean; Waves; Clouds; Cumulus; Night
+S12E06,12,6,Steep Mountains,Bob Ross,True,False,13,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Mountains (several); Lake; Clouds; Cirrus; Cabin; Structure
+S12E07,12,7,Quiet Mountain River,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Snowy mountain; River; Clouds; Cumulus
+S12E08,12,8,Evening Waterfall,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Grass; River; Waterfall
+S12E09,12,9,Tropical Seascape,Bob Ross,True,False,6,0,Palm trees; Beach; Ocean; Waves; Clouds; Cirrus
+S12E10,12,10,Mountain At Sunset,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Snowy mountain; River; Clouds
+S12E11,12,11,Soft Mountain Glow,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Snowy mountain; River
+S12E12,12,12,Mountain In An Oval,Bob Ross,True,False,12,1,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); Mountains (several); River; Clouds; Cumulus; Sun
+S12E13,12,13,Winter Mountain,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; River; Snow; Winter
+S13E01,13,1,Rolling Hills,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Hills; Lake
+S13E02,13,2,Frozen Solitude,Bob Ross,True,False,13,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Snow; Winter; Cabin; Structure
+S13E03,13,3,Meadow Brook,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); River; Clouds; Cirrus
+S13E04,13,4,Evening At Sunset,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Rocks; River; Clouds; Cirrus; Cabin; Structure
+S13E05,13,5,Mountain View,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Mountains (several); Rocks; River; Clouds
+S13E06,13,6,Hidden Creek,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; River
+S13E07,13,7,Peaceful Haven,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Path; River; Clouds; Cumulus
+S13E08,13,8,Mountain Exhibition,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cumulus
+S13E09,13,9,Emerald Waters,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Bushes; Lake
+S13E10,13,10,Mountain Summit,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Snowy mountain; River; Clouds; Cumulus
+S13E11,13,11,Cabin Hideaway,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Lake; Snow; Winter; Cabin; Structure
+S13E12,13,12,Oval Essence,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Conifer; Rocks; Ocean; Waves; Clouds; Night
+S13E13,13,13,Lost Lake,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Path; Lake
+S14E01,14,1,Distant Mountains,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Path; Lake; Clouds; Cumulus
+S14E02,14,2,Meadow Brook Surprise,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Conifer; Grass; River
+S14E03,14,3,Mountain Moonlight Oval,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Mountains (several); Night
+S14E04,14,4,Snowy Solitude,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Clouds; Cirrus; Snow; Winter; Fence
+S14E05,14,5,Mountain River,Bob Ross,True,False,11,1,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Rocks; River; Clouds; Cumulus; Fog
+S14E06,14,6,Graceful Mountains,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cirrus
+S14E07,14,7,Windy Waves,Bob Ross,True,False,7,0,Palm trees; Grass; Beach; Ocean; Waves; Clouds; Cumulus
+S14E08,14,8,On A Clear Day,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; River; Sun; Snow; Winter
+S14E09,14,9,Riverside Escape Oval,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Deciduous; Path; River; Clouds; Cumulus
+S14E10,14,10,Surprising Falls,Steve Ross (guest),False,False,9,0,Tree (at least one); Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Waterfall; Clouds; Cirrus
+S14E11,14,11,Shadow Pond,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; Lake
+S14E12,14,12,Misty Forest Oval,Bob Ross,True,False,6,1,Tree (at least one); Trees (several); Deciduous; Grass; Clouds; Fog
+S14E13,14,13,Natural Wonder,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus
+S15E01,15,1,Splendor Of Winter,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Clouds; Cirrus; Sun; Snow; Winter
+S15E02,15,2,Colors Of Nature,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; River; Clouds; Cumulus
+S15E03,15,3,Grandpa'S Barn,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Grass; Path; Barn; Fence; Structure
+S15E04,15,4,Peaceful Reflections,Bob Ross,False,True,0,0,
+S15E05,15,5,Hidden Winter Moon Oval,Bob Ross,True,False,12,1,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cirrus; Winter; Cabin; Structure
+S15E06,15,6,Waves Of Wonder,Bob Ross,True,False,6,0,Rocks; Beach; Ocean; Waves; Clouds; Cumulus
+S15E07,15,7,Cabin By The Pond,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Lake; Clouds; Cabin; Structure
+S15E08,15,8,Fall Stream,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Mountains (several); Rocks; River; Clouds; Cumulus
+S15E09,15,9,Christmas Eve Snow,Bob Ross,True,False,12,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Clouds; Cumulus; Snow; Winter; Cabin; Structure
+S15E10,15,10,Forest Dawn Oval,Bob Ross,True,False,6,1,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Path
+S15E11,15,11,Pathway To Autumn,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Path; Cabin; Structure
+S15E12,15,12,Deep Forest Lake,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Rocks; Lake
+S15E13,15,13,Peaks Of Majesty,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Lake; Clouds; Cirrus
+S16E01,16,1,Two Seasons,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus; Fog
+S16E02,16,2,Nestled Cabin,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Path; Cabin; Structure
+S16E03,16,3,Wintertime Discovery,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Clouds; Snow; Winter; Cabin; Structure
+S16E04,16,4,Mountain Mirage,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Clouds; Cumulus; Fog; Snow; Winter
+S16E05,16,5,Double Oval Fantasy,Bob Ross,True,False,10,1,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Cumulus
+S16E06,16,6,Contemplative Lady,Other guest,False,False,1,0,Portrait
+S16E07,16,7,Deep Woods,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Rocks; River; Waterfall
+S16E08,16,8,High Tide,Bob Ross,True,False,5,0,Palm trees; Beach; Ocean; Waves; Clouds
+S16E09,16,9,Barn In Snow Oval,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Conifer; Snow; Winter; Barn; Fence; Structure
+S16E10,16,10,That Time Of Year,Steve Ross (guest),False,False,6,0,Tree (at least one); Trees (several); Deciduous; Hills; Lake; Clouds
+S16E11,16,11,Waterfall Wonder,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Rocks; River; Waterfall
+S16E12,16,12,Mighty Mountain Lake,Bob Ross,True,False,7,0,Grass; Flowers; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus
+S16E13,16,13,Wooded Stream Oval,Bob Ross,True,False,5,1,Tree (at least one); Trees (several); Deciduous; Rocks; River
+S17E01,17,1,Golden Mist Oval,Bob Ross,True,False,5,1,Tree (at least one); Trees (several); Conifer; River; Fog
+S17E02,17,2,The Old Home Place,Bob Ross,True,False,7,0,Tree (at least one); Deciduous; Grass; Path; Cabin; Fence; Structure
+S17E03,17,3,Soothing Vista,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Mountains (several); Lake
+S17E04,17,4,Stormy Seas,Bob Ross,True,False,7,0,Rocks; Beach; Ocean; Waves; Clouds; Cumulus; Sun
+S17E05,17,5,Country Time,Bob Ross,True,False,6,1,Tree (at least one); Deciduous; Flowers; Lake; Cabin; Structure
+S17E06,17,6,A Mild Winter'S Day,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; River; Clouds; Snow; Winter
+S17E07,17,7,Spectacular Waterfall,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Rocks; River; Waterfall
+S17E08,17,8,View From The Park,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Deciduous; Lake; Bridge; Building; Structure
+S17E09,17,9,Lake View,Steve Ross (guest),False,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Flowers; Hills; Lake
+S17E10,17,10,Old Country Mill,Bob Ross,True,False,7,0,Tree (at least one); Deciduous; Rocks; River; Waterfall; Mill; Structure
+S17E11,17,11,Morning Walk,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Path; Fog
+S17E12,17,12,Nature'S Splendor,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Snowy mountain; River
+S17E13,17,13,Mountain Beauty,Other guest,False,False,9,0,Tree (at least one); Trees (several); Grass; Flowers; Mountain (at least one); Snowy mountain; Hills; Lake; Cumulus
+S18E01,18,1,Half-Oval Vignette,Bob Ross,True,False,9,1,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Lake; Clouds; Cumulus
+S18E02,18,2,Absolutely Autumn,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; River; Clouds; Cumulus
+S18E03,18,3,Mountain Seclusion,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); River; Clouds; Snow; Winter; Cabin; Structure
+S18E04,18,4,Crimson Oval,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; River; Waterfall
+S18E05,18,5,Autumn Exhibition,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; Lake
+S18E06,18,6,Majestic Peaks,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake
+S18E07,18,7,Golden Morning Mist,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; River; Fog
+S18E08,18,8,Winter Lace,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Deciduous; Lake; Clouds; Cumulus; Snow; Winter
+S18E09,18,9,Seascape Fantasy,Bob Ross,True,False,5,0,Beach; Ocean; Waves; Clouds; Cirrus
+S18E10,18,10,Double Oval Stream,Bob Ross,True,False,5,1,Tree (at least one); Trees (several); Deciduous; Bushes; River
+S18E11,18,11,Enchanted Forest,Bob Ross,True,False,4,0,Tree (at least one); Trees (several); Deciduous; Path
+S18E12,18,12,Southwest Serenity,Bob Ross,True,False,6,0,Cactus; Mountain (at least one); Mountains (several); Path; Clouds; Cirrus
+S18E13,18,13,Rippling Waters,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Rocks; River; Waterfall; Sun
+S19E01,19,1,Snowfall Magic,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; River; Snow; Winter
+S19E02,19,2,Quiet Mountain Lake,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Lake; Clouds; Cumulus
+S19E03,19,3,Final Embers Of Sunlight,Bob Ross,True,False,5,1,Tree (at least one); Trees (several); Deciduous; River; Sun
+S19E04,19,4,Snowy Morn,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Snow; Winter; Cabin; Structure
+S19E05,19,5,Camper'S Haven,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); Lake
+S19E06,19,6,Waterfall In The Woods,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; River; Waterfall
+S19E07,19,7,Covered Bridge Oval,Bob Ross,True,False,9,1,Tree (at least one); Trees (several); Conifer; River; Snow; Winter; Bridge; Fence; Structure
+S19E08,19,8,Scenic Seclusion,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Mountain (at least one); River; Waterfall
+S19E09,19,9,Ebb Tide,Bob Ross,True,False,7,0,Rocks; Beach; Ocean; Waves; Clouds; Cumulus; Sun
+S19E10,19,10,After The Rain,Bob Ross,True,False,4,0,Tree (at least one); Trees (several); Deciduous; Path
+S19E11,19,11,Winter'S Elegance,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Rocks; Lake; Clouds; Cumulus; Snow; Winter
+S19E12,19,12,Evening'S Peace,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Deciduous; Moon; Night; Snow; Winter; Barn; Fence; Structure
+S19E13,19,13,Valley Of Tranquility,Bob Ross,True,False,12,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); Snowy mountain; River; Waterfall; Clouds; Cumulus
+S20E01,20,1,Mystic Mountain,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Snowy mountain; Lake; Clouds; Cumulus
+S20E02,20,2,New Day'S Dawn,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Grass; Path; Sun; Barn; Fence; Structure
+S20E03,20,3,Pastel Winter,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; Snow; Winter
+S20E04,20,4,Hazy Day,Bob Ross,True,False,6,1,Tree (at least one); Trees (several); Deciduous; Rocks; River; Fog
+S20E05,20,5,Divine Elegance,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Rocks; Lake; Clouds; Cumulus
+S20E06,20,6,Cliffside,Bob Ross,True,False,6,0,Cliff; Rocks; Beach; Ocean; Waves; Clouds
+S20E07,20,7,Autumn Fantasy,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cirrus
+S20E08,20,8,The Old Oak Tree,Bob Ross,True,False,4,0,Tree (at least one); Deciduous; Grass; River
+S20E09,20,9,Winter'S Paradise,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; River; Clouds; Cumulus; Snow; Winter
+S20E10,20,10,Days Gone By,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Path; Bridge; Cabin; Structure
+S20E11,20,11,Change Of Seasons,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; River
+S20E12,20,12,Hidden Delight,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Path; River; Sun; Cabin
+S20E13,20,13,Double Take,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Fog; Snow; Winter
+S21E01,21,1,Valley View,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Lake
+S21E02,21,2,Tranquil Dawn,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Deciduous; River; Sun; Fog
+S21E03,21,3,Royal Majesty,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Rocks; River; Waterfall; Clouds
+S21E04,21,4,Serenity,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Flowers; River; Waterfall
+S21E05,21,5,Cabin At Trail'S End,Bob Ross,True,False,6,1,Tree (at least one); Trees (several); Deciduous; Path; Cabin; Structure
+S21E06,21,6,Mountain Rhapsody,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; Lake; Snow; Winter
+S21E07,21,7,Wilderness Cabin,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Rocks; Lake; Cabin; Structure
+S21E08,21,8,By The Sea,Bob Ross,True,False,10,0,Tree (at least one); Deciduous; Cliff; Rocks; Beach; Ocean; Waves; Clouds; Cumulus; Sun
+S21E09,21,9,Indian Summer,Bob Ross,True,False,4,0,Tree (at least one); Trees (several); Conifer; Bushes
+S21E10,21,10,Blue Winter,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cumulus; Snow; Winter
+S21E11,21,11,Desert Glow,Bob Ross,True,False,4,1,Cactus; Mountain (at least one); Path; Clouds
+S21E12,21,12,Lone Mountain,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Snowy mountain; Lake
+S21E13,21,13,Florida'S Glory,Bob Ross,True,False,4,0,Palm trees; Beach; Ocean; Waves
+S22E01,22,1,Autumn Images,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Bushes; Flowers; River; Clouds; Cumulus
+S22E02,22,2,Hint Of Springtime,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; River; Waterfall
+S22E03,22,3,Around The Bend,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Flowers; Rocks; River
+S22E04,22,4,Countryside Oval,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Deciduous; Grass; Hills; River; Clouds
+S22E05,22,5,Russet Winter,Bob Ross,True,False,6,0,Tree (at least one); Deciduous; Snow; Winter; Barn; Structure
+S22E06,22,6,Purple Haze,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; River; Waterfall
+S22E07,22,7,Dimensions,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; River
+S22E08,22,8,Deep Wilderness Home,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Grass; Cliff; River; Waterfall; Cabin
+S22E09,22,9,Haven In The Valley,Bob Ross,True,False,10,1,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Path; Lake; Cabin; Structure
+S22E10,22,10,Wintertime Blues,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Clouds; Cumulus; Snow; Winter
+S22E11,22,11,Pastel Seascape,Bob Ross,True,False,5,1,Beach; Ocean; Waves; Clouds; Sun
+S22E12,22,12,Country Creek,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Conifer; Rocks; River
+S22E13,22,13,Silent Forest,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Conifer; Grass; River
+S23E01,23,1,Frosty Winter Morn,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Hills; Snow; Winter; Cabin; Fence
+S23E02,23,2,Forest Edge,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Path
+S23E03,23,3,Mountain Ridge Lake,Bob Ross,True,False,8,0,Tree (at least one); Conifer; Grass; Mountain (at least one); Mountains (several); Lake; Clouds; Cumulus
+S23E04,23,4,Reflections Of Gold,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Deciduous; River; Clouds; Sun; Snow
+S23E05,23,5,Quiet Cove,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Hills; Rocks; Lake
+S23E06,23,6,River'S Peace,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; River; Waterfall
+S23E07,23,7,At Dawn'S Light,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Path; Lake
+S23E08,23,8,Valley Waterfall,Bob Ross,True,False,8,0,Tree (at least one); Conifer; Grass; Mountain (at least one); Snowy mountain; Rocks; River; Waterfall
+S23E09,23,9,Toward Day'S End,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; River; Cabin; Structure
+S23E10,23,10,Falls In The Glen,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); River; Waterfall
+S23E11,23,11,Frozen Beauty In Vignette,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Lake; Snow; Winter; Cabin; Structure
+S23E12,23,12,Crimson Tide,Bob Ross,True,False,7,0,Cliff; Rocks; Beach; Ocean; Waves; Clouds; Sun
+S23E13,23,13,Winter Bliss,Bob Ross,True,False,9,1,Tree (at least one); Deciduous; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Snow; Winter
+S24E01,24,1,Gray Mountain,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; River
+S24E02,24,2,Wayside Pond,Bob Ross,True,False,4,0,Tree (at least one); Trees (several); Deciduous; Lake
+S24E03,24,3,Teton Winter,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Deciduous; Mountain (at least one); Snowy mountain; Snow; Winter; Cabin; Structure
+S24E04,24,4,Little Home In The Meadow,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Cabin; Structure
+S24E05,24,5,A Pretty Autumn Day,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Snowy mountain; Rocks; River; Clouds
+S24E06,24,6,Mirrored Images,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Rocks; Lake; Clouds
+S24E07,24,7,Back Country,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Bushes; Path
+S24E08,24,8,Graceful Waterfall,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Cliff; Rocks; River; Waterfall
+S24E09,24,9,Icy Lake,Steve Ross (guest),False,False,7,1,Tree (at least one); Trees (several); Conifer; Deciduous; Lake; Snow; Winter
+S24E10,24,10,Rowboat On The Beach,Bob Ross,True,False,8,1,Grass; Hills; Beach; Ocean; Waves; Clouds; Sun; Boat
+S24E11,24,11,Portrait Of Winter,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Snow; Winter
+S24E12,24,12,The Footbridge,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Rocks; River; Bridge; Structure
+S24E13,24,13,Snowbound Cabin,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Clouds; Snow; Winter; Cabin; Fence
+S25E01,25,1,Hide-A-Way Cove,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; Lake
+S25E02,25,2,Enchanted Falls Oval,Bob Ross,True,False,5,1,Tree (at least one); Trees (several); Deciduous; River; Waterfall
+S25E03,25,3,Not Quite Spring,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; Lake; Snow; Winter
+S25E04,25,4,Splashes Of Autumn,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Lake; River; Waterfall
+S25E05,25,5,Summer In The Mountain,Steve Ross (guest),False,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds
+S25E06,25,6,Oriental Falls,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Bushes; Rocks; Waterfall; Fog
+S25E07,25,7,Autumn Palette,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Lake; Fence
+S25E08,25,8,Cypress Swamp,Bob Ross,True,False,3,0,Tree (at least one); Deciduous; Lake
+S25E09,25,9,Downstream View,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Rocks; River; Clouds; Cumulus
+S25E10,25,10,Just Before The Storm,Bob Ross,True,False,4,1,Palm trees; Ocean; Waves; Clouds
+S25E11,25,11,Fisherman'S Paradise,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Lake; Sun; Cabin; Structure
+S25E12,25,12,Desert Hues,Bob Ross,True,False,5,0,Cactus; Mountain (at least one); Path; Clouds; Cirrus
+S25E13,25,13,The Property Line,Bob Ross,True,False,6,0,Tree (at least one); Deciduous; Bushes; Snow; Winter; Fence
+S26E01,26,1,In The Stillness Of Morning,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; River; Fog
+S26E02,26,2,Delightful Meadow Home,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Grass; Path; Cabin; Fence; Structure
+S26E03,26,3,First Snow,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Snowy mountain; Clouds; Snow; Winter
+S26E04,26,4,Lake In The Valley,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; Mountain (at least one); Snowy mountain; Path; Lake; Sun
+S26E05,26,5,Trace Of Spring,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Grass; Flowers; River
+S26E06,26,6,Arctic Winter Day,Bob Ross,True,False,12,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds; Snow; Winter; Cabin; Structure
+S26E07,26,7,Snow Birch,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Lake; Snow; Winter
+S26E08,26,8,Early Autumn,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Lake
+S26E09,26,9,Tranquil Wooded Stream,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Rocks; River
+S26E10,26,10,Purple Mountain Range,Bob Ross,False,True,0,0,
+S26E11,26,11,Storm'S A Comin',Bob Ross,True,False,7,0,Hills; Rocks; Beach; Ocean; Waves; Clouds; Cumulus
+S26E12,26,12,Sunset Aglow,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Lake; Clouds
+S26E13,26,13,Evening At The Falls,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; River; Waterfall; Night
+S27E01,27,1,Twilight Beauty,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Conifer; Deciduous; Lake; Sun; Fog
+S27E02,27,2,Angler'S Haven,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Rocks; Lake
+S27E03,27,3,Rustic Winter Woods,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Sun; Snow; Winter
+S27E04,27,4,Wilderness Falls,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); Rocks; River; Waterfall; Clouds
+S27E05,27,5,Winter At The Farm,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Snow; Winter; Farm; Fence; Structure
+S27E06,27,6,Daisies At Dawn,Bob Ross,True,False,8,1,Tree (at least one); Trees (several); Conifer; Deciduous; Flowers; Lake; Cabin; Structure
+S27E07,27,7,Spectacular View,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Path; Clouds; Cumulus; Cabin; Structure
+S27E08,27,8,Daybreak,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Fog; Snow; Winter; Cabin; Fence; Structure
+S27E09,27,9,Island Paradise,Bob Ross,True,False,7,1,Palm trees; Hills; Rocks; Beach; Ocean; Waves; Clouds
+S27E10,27,10,Sunlight In The Shadows,Other guest,False,False,7,0,Tree (at least one); Trees (several); Deciduous; Bushes; Grass; River; Sun
+S27E11,27,11,Splendor Of A Snowy White,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Snowy mountain; Snow; Winter; Cabin; Structure
+S27E12,27,12,Forest River,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; River; Sun
+S27E13,27,13,Golden Glow Of Morning,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Rocks; Lake; Sun; Fog
+S28E01,28,1,Fisherman'S Trail,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Path; Lake
+S28E02,28,2,To A Warm Winter,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Hills; Sun; Snow; Winter; Barn; Structure
+S28E03,28,3,Under Pastel Skies,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Snowy mountain; Clouds
+S28E04,28,4,Golden Rays Of Sunlight,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Bushes; Sun
+S28E05,28,5,Magic Of Fall,Bob Ross,True,False,4,0,Tree (at least one); Deciduous; Grass; Fence
+S28E06,28,6,Glacier Lake,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Snowy mountain; Rocks; Lake
+S28E07,28,7,The Old Weathered Barn,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; Path; Barn
+S28E08,28,8,Deep Forest Falls,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Bushes; River; Waterfall
+S28E09,28,9,Winter'S Grace,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Fog; Snow; Winter
+S28E10,28,10,Splendor Of Autumn,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Grass; Lake; Sun; Fog
+S28E11,28,11,Tranquil Seas,Bob Ross,True,False,6,0,Beach; Ocean; Waves; Clouds; Cumulus; Sun
+S28E12,28,12,Mountain Serenity,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Snowy mountain; Lake
+S28E13,28,13,Home Before Nightfall,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Grass; Clouds; Night; Cabin; Structure
+S29E01,29,1,Island In The Wilderness,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Conifer; Bushes; Lake
+S29E02,29,2,Autumn Oval,Bob Ross,True,False,6,1,Tree (at least one); Trees (several); Conifer; Bushes; Mountains (several); Lake
+S29E03,29,3,Seasonal Progression,Bob Ross,True,False,11,1,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Snow; Winter
+S29E04,29,4,Light At The Summit,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one); Mountains (several); Path; Sun
+S29E05,29,5,Countryside Barn,Bob Ross,True,False,6,0,Tree (at least one); Deciduous; Grass; Path; Barn; Structure
+S29E06,29,6,Mountain Lake Falls,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Snowy mountain; Lake; River; Waterfall; Clouds; Cumulus
+S29E07,29,7,Cypress Creek,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; River
+S29E08,29,8,Trapper'S Cabin,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Bushes; Mountain (at least one); Mountains (several); Lake; Cabin; Structure
+S29E09,29,9,Storm On The Horizon,Bob Ross,True,False,7,0,Palm trees; Grass; Rocks; Beach; Ocean; Waves; Clouds
+S29E10,29,10,Pot 'O Posies,Other guest,False,False,1,0,Flowers
+S29E11,29,11,Perfect Winter'S Day,Bob Ross,True,False,11,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Snowy mountain; Clouds; Snow; Winter; Cabin; Structure
+S29E12,29,12,Aurora'S Dance,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Lake; Night; Aurora borealis; Snow; Winter; Cabin
+S29E13,29,13,The Woodman'S Retreat,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake
+S30E01,30,1,Babbling Brook,Bob Ross,True,False,6,0,Tree (at least one); Deciduous; Bushes; Grass; River; Waterfall
+S30E02,30,2,Woodgrain View,Bob Ross,True,False,6,1,Tree (at least one); Deciduous; Grass; Mountain (at least one); Snowy mountain; Lake
+S30E03,30,3,Winter'S Peace,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Lake; Clouds; Cabin; Structure
+S30E04,30,4,Wilderness Trail,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Bushes; Path
+S30E05,30,5,Copper Winter,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Conifer; Deciduous; Lake
+S30E06,30,6,Misty Foothills,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Hills; Lake; Clouds; Cumulus
+S30E07,30,7,Through The Window,Bob Ross,True,False,6,1,Tree (at least one); Trees (several); Conifer; Deciduous; Snow; Winter
+S30E08,30,8,Home In The Valley,Bob Ross,True,False,9,0,Tree (at least one); Trees (several); Conifer; Grass; Lake; Clouds; Cumulus; Cabin; Structure
+S30E09,30,9,Mountains Of Grace,Steve Ross (guest),False,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Mountain (at least one); Mountains (several); Snowy mountain; River; Clouds; Cirrus
+S30E10,30,10,Seaside Harmony,Bob Ross,True,False,5,0,Rocks; Beach; Ocean; Waves; Clouds
+S30E11,30,11,Cold Spring Day,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Mountains (several); Snowy mountain; Lake
+S30E12,30,12,Evening'S Glow,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Path; Sun; Cabin
+S30E13,30,13,Blue Ridge Falls,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Mountain (at least one); Rocks; River; Waterfall
+S31E01,31,1,Reflections Of Calm,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Conifer; Mountain (at least one); Mountains (several); Lake
+S31E02,31,2,Before The Snowfall,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; River; Clouds; Cabin; Structure
+S31E03,31,3,Winding Stream,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Conifer; Grass; Rocks; River; Clouds
+S31E04,31,4,Tranquility Cove,Bob Ross,True,False,6,0,Tree (at least one); Trees (several); Deciduous; Grass; Rocks; Lake
+S31E05,31,5,Cabin In The Hollow,Bob Ross,True,False,7,1,Tree (at least one); Trees (several); Conifer; River; Snow; Winter; Cabin
+S31E06,31,6,View From Clear Creek,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Bushes; Grass; Mountain (at least one); Mountains (several); River
+S31E07,31,7,Bridge To Autumn,Bob Ross,True,False,7,0,Tree (at least one); Trees (several); Deciduous; Path; Lake; Bridge; Structure
+S31E08,31,8,Trail'S End,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Path; Clouds
+S31E09,31,9,Evergreen Valley,Bob Ross,True,False,8,0,Tree (at least one); Trees (several); Conifer; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Rocks
+S31E10,31,10,Balmy Beach,Bob Ross,True,False,5,1,Palm trees; Rocks; Beach; Ocean; Waves
+S31E11,31,11,Lake At The Ridge,Steve Ross (guest),False,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Grass; Mountain (at least one); Mountains (several); Snowy mountain; Lake; Clouds
+S31E12,31,12,In The Midst Of Winter,Bob Ross,True,False,10,0,Tree (at least one); Trees (several); Conifer; Deciduous; Path; Fog; Snow; Winter; Barn; Structure
+S31E13,31,13,Wilderness Day,Bob Ross,True,False,5,0,Tree (at least one); Trees (several); Deciduous; Grass; Mountain (at least one)
